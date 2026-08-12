@@ -101,7 +101,8 @@ actual OpenCode route and credential.
 ## Repository contents
 
 - `build_blind_v3.py` — deterministic, prompt-only slice builder.
-- `data/` — the blind prompts and the separate key for this diagnostic slice.
+- `data/` — the pinned source revisions and manifest for this diagnostic slice;
+  the blind input and answer key are generated locally.
 - `results/` — model answers used for the table.
 
 No full benchmark datasets, API keys, provider credentials, or raw service logs
