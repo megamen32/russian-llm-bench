@@ -1,0 +1,54 @@
+{
+  "version": "blind-v3",
+  "input": "10 SLAVA + 10 MERA records from data/slice-manifest-v3.json",
+  "metric": {
+    "name": "strict normalized exact match",
+    "normalization": "lowercase, trim, collapse whitespace, remove quote wrappers and final periods",
+    "note": "Only scalar-string MERA records are included in the scalar score."
+  },
+  "models": [
+    {
+      "model": "gpt-5.6-luna",
+      "execution": "Codex subagent",
+      "slava": {"exact": 6, "scored": 10},
+      "mera_scalar": {"exact": 4, "scored": 8}
+    },
+    {
+      "model": "gpt-5.4-mini",
+      "execution": "Codex subagent",
+      "slava": {"exact": 6, "scored": 10},
+      "mera_scalar": {"exact": 5, "scored": 8}
+    },
+    {
+      "model": "MiniMax-M3-512k",
+      "execution": "OpenCode minimax-coding-plan",
+      "slava": {"exact": 7, "scored": 10},
+      "mera_scalar": {"exact": 4, "scored": 8},
+      "receipt": {"input_tokens": 20922, "output_tokens": 22, "cache_read_tokens": 22308, "displayed_internal_cost_usd": 0}
+    },
+    {
+      "model": "gpt-5.6-sol",
+      "execution": "Codex subagent",
+      "slava": {"exact": 9, "scored": 10},
+      "mera_scalar": {"exact": 4, "scored": 8}
+    }
+  ],
+  "excluded_structured_mera_tasks": [
+    {"task": "multiq", "reason": "requires structured span scorer"},
+    {"task": "ruethics", "reason": "requires multi-label scorer"}
+  ],
+  "pending_routes": [
+    {
+      "model": "GLM-5.2",
+      "route": "omniroute/opencode/glm-5.2",
+      "status": "blocked",
+      "reason": "HTTP 402: the OpenCode provider connection has no API key"
+    },
+    {
+      "model": "GLM-5 Turbo",
+      "route": "OpenCode only",
+      "status": "not listed",
+      "reason": "not present in the active opencode or opencode-go catalog"
+    }
+  ]
+}

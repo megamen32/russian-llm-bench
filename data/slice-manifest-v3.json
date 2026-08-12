@@ -1,0 +1,37 @@
+{
+  "version": "blind-v3",
+  "sources": {
+    "slava": {
+      "repo": "RANEPA-ai/SLAVA-OpenData-2800-v1",
+      "revision": "084f06068978f79f8af9d225395abb449f80e275",
+      "file": "open_questions_dataset.jsonl"
+    },
+    "mera": {
+      "repo": "ai-forever/MERA",
+      "revision": "1af9c02a469b6e614e7afed73f7d27f71de7caf5",
+      "root": "data"
+    }
+  },
+  "records": [
+    {"benchmark": "SLAVA", "task": "открытый ответ", "id": 5082},
+    {"benchmark": "SLAVA", "task": "выбор ответа (мультивыбор)", "id": 7195},
+    {"benchmark": "SLAVA", "task": "выбор ответа (один)", "id": 10280},
+    {"benchmark": "SLAVA", "task": "установление соответствия", "id": 1935},
+    {"benchmark": "SLAVA", "task": "указание последовательности", "id": 1453},
+    {"benchmark": "SLAVA", "task": "выбор ответа (один)", "id": 10126},
+    {"benchmark": "SLAVA", "task": "открытый ответ", "id": 9688},
+    {"benchmark": "SLAVA", "task": "открытый ответ", "id": 311},
+    {"benchmark": "SLAVA", "task": "открытый ответ", "id": 2485},
+    {"benchmark": "SLAVA", "task": "выбор ответа (мультивыбор)", "id": 5837},
+    {"benchmark": "MERA", "task": "bps", "id": 154, "split": "train", "row_index": 0},
+    {"benchmark": "MERA", "task": "chegeka", "id": 29263, "split": "train", "row_index": 0},
+    {"benchmark": "MERA", "task": "lcs", "id": 313, "split": "train", "row_index": 0},
+    {"benchmark": "MERA", "task": "mathlogicqa", "id": 0, "split": "train", "row_index": 0},
+    {"benchmark": "MERA", "task": "multiq", "id": 424, "split": "test", "row_index": 0},
+    {"benchmark": "MERA", "task": "parus", "id": 0, "split": "dev", "row_index": 0},
+    {"benchmark": "MERA", "task": "rcb", "id": 0, "split": "dev", "row_index": 0},
+    {"benchmark": "MERA", "task": "rudetox", "id": 0, "split": "test", "row_index": 0},
+    {"benchmark": "MERA", "task": "ruethics", "id": 851, "split": "test", "row_index": 0},
+    {"benchmark": "MERA", "task": "ruhatespeech", "id": 0, "split": "test", "row_index": 0}
+  ]
+}

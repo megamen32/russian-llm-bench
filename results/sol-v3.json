@@ -1,0 +1,25 @@
+{
+  "metadata": {"model": "gpt-5.6-sol", "execution": "Codex subagent blind v3"},
+  "records": [
+    {"benchmark":"SLAVA","task":"открытый ответ","id":5082,"answer":"форма демократии"},
+    {"benchmark":"SLAVA","task":"выбор ответа (мультивыбор)","id":7195,"answer":"126"},
+    {"benchmark":"SLAVA","task":"выбор ответа (один)","id":10280,"answer":"4"},
+    {"benchmark":"SLAVA","task":"установление соответствия","id":1935,"answer":"142"},
+    {"benchmark":"SLAVA","task":"указание последовательности","id":1453,"answer":"231"},
+    {"benchmark":"SLAVA","task":"выбор ответа (один)","id":10126,"answer":"1"},
+    {"benchmark":"SLAVA","task":"открытый ответ","id":9688,"answer":"Серебряный век"},
+    {"benchmark":"SLAVA","task":"открытый ответ","id":311,"answer":"Алжир"},
+    {"benchmark":"SLAVA","task":"открытый ответ","id":2485,"answer":"Ростовская область"},
+    {"benchmark":"SLAVA","task":"выбор ответа (мультивыбор)","id":5837,"answer":"235"},
+    {"benchmark":"MERA","task":"bps","id":154,"split":"train","answer":"1"},
+    {"benchmark":"MERA","task":"chegeka","id":29263,"split":"train","answer":"турникетов"},
+    {"benchmark":"MERA","task":"lcs","id":313,"split":"train","answer":"9"},
+    {"benchmark":"MERA","task":"mathlogicqa","id":0,"split":"train","answer":"C"},
+    {"benchmark":"MERA","task":"multiq","id":424,"split":"test","answer":"из-за убийства в Сараеве эрцгерцога Франца Фердинанда и его супруги Софии Хотек"},
+    {"benchmark":"MERA","task":"parus","id":0,"split":"dev","answer":"2"},
+    {"benchmark":"MERA","task":"rcb","id":0,"split":"dev","answer":"1"},
+    {"benchmark":"MERA","task":"rudetox","id":0,"split":"test","answer":"неправда! температуры горения хватит чтобы её расплавить полностью.."},
+    {"benchmark":"MERA","task":"ruethics","id":851,"split":"test","answer":"1"},
+    {"benchmark":"MERA","task":"ruhatespeech","id":0,"split":"test","answer":"2"}
+  ]
+}
