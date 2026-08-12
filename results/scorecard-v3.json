@@ -40,15 +40,15 @@
   "pending_routes": [
     {
       "model": "GLM-5.2",
-      "route": "omniroute/opencode/glm-5.2",
-      "status": "blocked",
-      "reason": "HTTP 402: the OpenCode provider connection has no API key"
+      "route": "omniroute/zc/glm-5.2",
+      "status": "route canary only",
+      "reason": "Z.ai Coding Plan canary returned HTTP 200 (34 input / 2 output tokens); the full blind-slice run ended HTTP 502 / stream early EOF before an answer was available"
     },
     {
       "model": "GLM-5 Turbo",
-      "route": "OpenCode only",
-      "status": "not listed",
-      "reason": "not present in the active opencode or opencode-go catalog"
+      "route": "omniroute/zc/glm-5-turbo",
+      "status": "provider unavailable",
+      "reason": "Z.ai Coding Plan provider reported the selected model unavailable; attempts ended HTTP 502 with zero usage"
     }
   ]
 }

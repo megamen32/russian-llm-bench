@@ -89,18 +89,24 @@ Do not send the key to a model and do not commit it to a public repository.
 
 ## Route evidence and pending models
 
-The requested OpenCode-only route for GLM-5.2 is visible as
-`omniroute/opencode/glm-5.2`, but its canary returned HTTP 402 because that
-OpenCode connection has no provider API key. It was not silently substituted
-with Auto or another Z.ai route.
+The requested lane is **Z.ai Coding Plan**, exposed through the OpenCode client
+as `omniroute/zc/glm-5.2` and `omniroute/zc/glm-5-turbo`. Here `zc` means the
+Coding Plan route: it is neither Auto nor the ordinary Z.ai API route.
 
-GLM-5 Turbo appears in non-OpenCode Z.ai/Cline catalog routes, but was not
-listed in the active `opencode` / `opencode-go` catalog. It remains pending an
-actual OpenCode route and credential.
+`glm-5.2` completed a small route canary (`HTTP 200`, 34 input / 2 output
+tokens), but the full blind-slice run failed with `HTTP 502` / stream early EOF
+before an assistant answer was available. That is route evidence, not a
+benchmark result.
+
+`glm-5-turbo` is registered on the same `zc` catalog, but its provider session
+responded that the chosen model is unavailable; the attempts ended in 502 with
+zero billed tokens. It likewise has no score rather than a substituted result.
 
 ## Repository contents
 
 - `build_blind_v3.py` — deterministic, prompt-only slice builder.
+- `scripts/split_blind_input.py` — splits the same blind input into contiguous
+  batches when a provider has a short request window.
 - `data/` — the pinned source revisions and manifest for this diagnostic slice;
   the blind input and answer key are generated locally.
 - `results/` — model answers used for the table.
