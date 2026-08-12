@@ -11,7 +11,7 @@ from typing import Any
 
 
 def normalize(value: Any) -> str:
-    return re.sub(r"[.。]+$", "", re.sub(r"\s+", " ", str(value or "").lower().strip()).strip('«»"\''))
+    return re.sub(r"[.。]+$", "", re.sub(r"\\s+", " ", str(value or "").lower().strip()).strip('«»"\''))
 
 
 def record_key(item: dict[str, Any]) -> tuple[str, str, int]:
