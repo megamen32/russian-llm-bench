@@ -1,6 +1,24 @@
 # Russian LLM Bench
 
-Small, reproducible **blind** diagnostic slices for two Russian benchmarks:
+![Blind benchmark evaluation flow](docs/assets/blind-evaluation-flow.png)
+
+> A small, reproducible blind check for Russian-language LLM behavior — with
+> the answer key kept out of the model prompt.
+
+This repository is useful as a transparent smoke test before making a larger
+benchmark claim. It fixes 20 records, renders the same input for each model,
+and scores only the scalar items that the current scorer can justify.
+
+It is deliberately **not** a leaderboard: 10 SLAVA + 10 MERA records are a
+diagnostic slice, not a representative evaluation.
+
+## Result at a glance
+
+On the current checked-in slice, `gpt-5.6-sol` leads SLAVA at **9/10**; the
+best scalar MERA result is `gpt-5.4-mini` at **5/8**. Read the [limitations and
+reproduction path](#reproduce-the-slice) before interpreting either number.
+
+The slice covers two Russian benchmarks:
 
 - [SLAVA](https://huggingface.co/datasets/RANEPA-ai/SLAVA-OpenData-2800-v1)
 - [MERA](https://huggingface.co/datasets/ai-forever/MERA)
@@ -55,7 +73,8 @@ MERA examples separately and does not turn them into a fake aggregate score.
 
 ## Reproduce the slice
 
-The public manifest fixes the 20 examples by benchmark, task and ID. Fetch the
+The public [manifest](data/slice-manifest-v3.json) fixes the 20 examples by
+benchmark, task and ID. Fetch the
 two source datasets at the revisions recorded in `data/slice-manifest-v3.json`,
 then build a prompt-only input with `build_blind_v3.py`. The builder deliberately
 does not write the reference answers.
