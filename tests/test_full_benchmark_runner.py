@@ -218,6 +218,28 @@ class FullBenchmarkRunnerTest(unittest.TestCase):
         self.assertIn('"answer"', prompt)
         self.assertIn("каждый запрошенный id", prompt) if "каждый запрошенный id" in prompt else self.assertIn("every requested id", prompt)
 
+    def test_parse_failure_is_retryable_before_append(self) -> None:
+        runner = load_module()
+        calls = []
+        task = runner.Task("slava:1", "slava", "open", 1, "Ответ")
+        runner.run_omniroute = lambda *args: calls.append(1) or (
+            '{"records":[]}' if len(calls) == 1 else '{"records":[{"id":"slava:1","answer":"ok"}]}'
+        )
+        with tempfile.TemporaryDirectory() as directory:
+            output = Path(directory) / "out.jsonl"
+            # Exercise the same parse contract used by main without writing a
+            # partial record after the first malformed response.
+            for attempt in range(2):
+                try:
+                    answer = runner.parse_batch_answer(runner.run_omniroute("url", "m3", "prompt", 1, 32), [task.task_id])
+                    break
+                except ValueError:
+                    continue
+            runner.append_records(output, [task], answer, "m3", "omniroute", 1)
+            rows = [json.loads(line) for line in output.read_text(encoding="utf-8").splitlines() if line.strip()]
+        self.assertEqual(calls, [1, 1])
+        self.assertEqual(rows[0]["answer"], "ok")
+
 
 if __name__ == "__main__":
     unittest.main()

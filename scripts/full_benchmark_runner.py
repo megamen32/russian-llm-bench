@@ -404,8 +404,20 @@ def main() -> int:
             break
         task_ids, prompt = [task.task_id for task in batch], batch_prompt(batch)
         schema, started = response_schema(task_ids), time.monotonic()
-        raw = run_codex(args.model, prompt, schema, args.timeout, args.workspace, args.retries) if args.backend == "codex" else run_omniroute(args.base_url, args.model, prompt, args.timeout, args.max_tokens, args.auth_file)
-        append_records(args.output, batch, parse_batch_answer(raw, task_ids), args.model, args.backend, round((time.monotonic() - started) * 1000))
+        answers = None
+        failures = []
+        for attempt in range(args.retries + 1):
+            try:
+                raw = run_codex(args.model, prompt, schema, args.timeout, args.workspace, args.retries) if args.backend == "codex" else run_omniroute(args.base_url, args.model, prompt, args.timeout, args.max_tokens, args.auth_file)
+                answers = parse_batch_answer(raw, task_ids)
+                break
+            except (RuntimeError, ValueError) as error:
+                failures.append(str(error))
+                if attempt < args.retries:
+                    time.sleep(min(60, 5 * (2**attempt)))
+        if answers is None:
+            raise RuntimeError("batch failed after request/parse retries: " + " | ".join(failures[-3:]))
+        append_records(args.output, batch, answers, args.model, args.backend, round((time.monotonic() - started) * 1000))
         batches_run += 1
         print(json.dumps({"batches_run": batches_run, "new_records": batches_run * len(batch)}, ensure_ascii=False))
     final_completed = len(load_completed(args.output))
