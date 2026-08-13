@@ -6,6 +6,7 @@ import sys
 import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import patch
 
 
 MODULE_PATH = Path(__file__).parents[1] / "scripts" / "full_benchmark_runner.py"
@@ -185,6 +186,29 @@ class FullBenchmarkRunnerTest(unittest.TestCase):
 
         self.assertEqual(len(observed_prompts), 1)
         self.assertIn("Первый\n1. а\n2. б\nОтвет: 2", observed_prompts[0])
+
+    def test_codex_retries_a_transient_failure_before_returning_output(self) -> None:
+        runner = load_module()
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            schema = root / "schema.json"
+            answer = root / "answer.json"
+            calls = []
+
+            def fake_run(*args, **kwargs):
+                calls.append(1)
+                command = args[0]
+                answer_path = Path(command[command.index("-o") + 1])
+                if len(calls) == 2:
+                    answer_path.write_text('{"records":[]}', encoding="utf-8")
+                    return type("Result", (), {"returncode": 0, "stderr": ""})()
+                return type("Result", (), {"returncode": 1, "stderr": "temporary unavailable"})()
+
+            with patch.object(runner.subprocess, "run", side_effect=fake_run), patch.object(runner.time, "sleep"):
+                result = runner.run_codex("sol", "prompt", {"type": "object"}, 1, root, retries=1)
+
+        self.assertEqual(result, '{"records":[]}')
+        self.assertEqual(len(calls), 2)
 
 
 if __name__ == "__main__":

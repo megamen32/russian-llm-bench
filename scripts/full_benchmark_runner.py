@@ -221,23 +221,38 @@ def chunked(items: list[Task], size: int) -> Iterable[list[Task]]:
         yield items[start : start + size]
 
 
-def run_codex(model: str, prompt: str, schema: dict[str, Any], timeout: int, workspace: Path) -> str:
+def run_codex(
+    model: str,
+    prompt: str,
+    schema: dict[str, Any],
+    timeout: int,
+    workspace: Path,
+    retries: int = 3,
+) -> str:
+    """Make one Codex call, retrying only before any batch is persisted."""
     with tempfile.TemporaryDirectory(prefix="russian-llm-bench-codex-") as temporary:
         temp = Path(temporary)
         schema_path, answer_path = temp / "schema.json", temp / "answer.json"
         schema_path.write_text(json.dumps(schema, ensure_ascii=False), encoding="utf-8")
-        completed = subprocess.run(
-            ["codex", "exec", "--ephemeral", "--ignore-user-config", "-m", model, "-s", "read-only", "-C", str(workspace), "--output-schema", str(schema_path), "-o", str(answer_path), "-"],
-            input=prompt,
-            text=True,
-            stdout=subprocess.DEVNULL,
-            stderr=subprocess.PIPE,
-            timeout=timeout,
-            check=False,
-        )
-        if completed.returncode != 0 or not answer_path.exists():
-            raise RuntimeError(f"Codex batch failed (exit {completed.returncode})")
-        return answer_path.read_text(encoding="utf-8")
+        diagnostics: list[str] = []
+        for attempt in range(retries + 1):
+            answer_path.unlink(missing_ok=True)
+            completed = subprocess.run(
+                ["codex", "exec", "--ephemeral", "--ignore-user-config", "-m", model, "-s", "read-only", "-C", str(workspace), "--output-schema", str(schema_path), "-o", str(answer_path), "-"],
+                input=prompt,
+                text=True,
+                stdout=subprocess.DEVNULL,
+                stderr=subprocess.PIPE,
+                timeout=timeout,
+                check=False,
+            )
+            if completed.returncode == 0 and answer_path.exists():
+                return answer_path.read_text(encoding="utf-8")
+            detail = " ".join(completed.stderr.strip().split())[-500:]
+            diagnostics.append(f"attempt={attempt + 1} exit={completed.returncode} {detail}")
+            if attempt < retries:
+                time.sleep(min(60, 2**attempt * 5))
+        raise RuntimeError("Codex batch failed after retries: " + " | ".join(diagnostics))
 
 
 def omniroute_payload(model: str, prompt: str, max_tokens: int) -> dict[str, Any]:
@@ -354,10 +369,13 @@ def main() -> int:
     parser.add_argument("--max-batches", type=int)
     parser.add_argument("--timeout", type=int, default=240)
     parser.add_argument("--max-tokens", type=int, default=4096)
+    parser.add_argument("--retries", type=int, default=3)
     parser.add_argument("--only-rutie", action="store_true")
     args = parser.parse_args()
     if args.batch_size < 1:
         raise ValueError("--batch-size must be positive")
+    if args.retries < 0:
+        raise ValueError("--retries cannot be negative")
     if args.only_rutie:
         if args.backend != "codex":
             raise ValueError("the ruTiE sequential runner currently supports the codex backend only")
@@ -372,7 +390,7 @@ def main() -> int:
             break
         task_ids, prompt = [task.task_id for task in batch], batch_prompt(batch)
         schema, started = response_schema(task_ids), time.monotonic()
-        raw = run_codex(args.model, prompt, schema, args.timeout, args.workspace) if args.backend == "codex" else run_omniroute(args.base_url, args.model, prompt, args.timeout, args.max_tokens)
+        raw = run_codex(args.model, prompt, schema, args.timeout, args.workspace, args.retries) if args.backend == "codex" else run_omniroute(args.base_url, args.model, prompt, args.timeout, args.max_tokens)
         append_records(args.output, batch, parse_batch_answer(raw, task_ids), args.model, args.backend, round((time.monotonic() - started) * 1000))
         batches_run += 1
         print(json.dumps({"batches_run": batches_run, "new_records": batches_run * len(batch)}, ensure_ascii=False))
