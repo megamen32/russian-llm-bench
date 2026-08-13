@@ -1,0 +1,314 @@
+{
+  "docker": {
+    "evidence": "no docker exec/compose benchmark command found in the recovered task transcript or current result provenance",
+    "future": "containerize runner and record image digest before claiming a Docker run",
+    "status": "planned_not_used"
+  },
+  "forensic_source": [
+    "Codex session transcript JSONL",
+    "session-events index",
+    "git history",
+    "local result JSONL"
+  ],
+  "generated_at": "2026-08-13T20:21:33.580714+00:00",
+  "runs": [
+    {
+      "auth": {
+        "field": "OMNIROUTE_API_KEY / OpenCode auth.omniroute.key / Codex auth",
+        "mechanism": "redacted local auth or Codex auth",
+        "value": "<REDACTED>"
+      },
+      "backend": "codex CLI",
+      "batch_size": 3,
+      "concurrency": "two independent host processes for the same model; not two models",
+      "dataset": {
+        "mera": "datasets/MERA/data",
+        "slava": "datasets/SLAVA/open_questions_dataset.jsonl",
+        "splits": [
+          "SLAVA local open_questions_dataset",
+          "MERA test only"
+        ]
+      },
+      "endpoint": "Codex-managed endpoint; URL unknown",
+      "git_commit": "f1041db",
+      "git_dirty_at_launch": "unknown / not recoverable",
+      "host": "roomhacker-server-100",
+      "max_completion_tokens": null,
+      "model": "gpt-5.6-sol",
+      "notes": [
+        "3/3 non-empty records recovered from output"
+      ],
+      "outputs": [
+        "results/full/sol-slava-canary.jsonl"
+      ],
+      "platform": "Linux-6.8.0-136-generic-x86_64-with-glibc2.35",
+      "provider": "OpenAI/Codex runtime",
+      "reasoning_effort": "unknown / not recoverable",
+      "reasoning_split": "unknown / not recoverable",
+      "retries": 0,
+      "run_id": "sol-canary-3",
+      "runner": "scripts/full_benchmark_runner.py",
+      "sequential_tasks": [
+        "mera:rutie:*"
+      ],
+      "service_tier": "unknown / not recoverable",
+      "shard": "recorded in output filename; shard count 2",
+      "status": "complete-canary",
+      "system_prompt": "unknown / not recoverable as a separate field; Codex CLI supplied its own system/runtime prompt",
+      "temperature": 0,
+      "thinking": "unknown / not recoverable",
+      "timeout_seconds": 120,
+      "timestamp": "recovered from transcript; exact command start not recoverable",
+      "wrapper_prompt": "see prompts/prompt-variants.json"
+    },
+    {
+      "auth": {
+        "field": "OMNIROUTE_API_KEY / OpenCode auth.omniroute.key / Codex auth",
+        "mechanism": "redacted local auth or Codex auth",
+        "value": "<REDACTED>"
+      },
+      "backend": "codex CLI",
+      "batch_size": 10,
+      "concurrency": "two independent host processes for the same model; not two models",
+      "dataset": {
+        "mera": "datasets/MERA/data",
+        "slava": "datasets/SLAVA/open_questions_dataset.jsonl",
+        "splits": [
+          "SLAVA local open_questions_dataset",
+          "MERA test only"
+        ]
+      },
+      "endpoint": "Codex-managed endpoint; URL unknown",
+      "git_commit": "f1041db",
+      "git_dirty_at_launch": "unknown / not recoverable",
+      "host": "roomhacker-server-100",
+      "max_completion_tokens": null,
+      "model": "gpt-5.6-sol",
+      "notes": [
+        "10/10 non-empty records; latency recorded in JSONL"
+      ],
+      "outputs": [
+        "results/full/sol-shard0-preflight10.jsonl"
+      ],
+      "platform": "Linux-6.8.0-136-generic-x86_64-with-glibc2.35",
+      "provider": "OpenAI/Codex runtime",
+      "reasoning_effort": "unknown / not recoverable",
+      "reasoning_split": "unknown / not recoverable",
+      "retries": 0,
+      "run_id": "sol-preflight-10",
+      "runner": "scripts/full_benchmark_runner.py",
+      "sequential_tasks": [
+        "mera:rutie:*"
+      ],
+      "service_tier": "unknown / not recoverable",
+      "shard": "recorded in output filename; shard count 2",
+      "status": "complete-canary",
+      "system_prompt": "unknown / not recoverable as a separate field; Codex CLI supplied its own system/runtime prompt",
+      "temperature": 0,
+      "thinking": "unknown / not recoverable",
+      "timeout_seconds": 120,
+      "timestamp": "recovered from transcript; exact command start not recoverable",
+      "wrapper_prompt": "see prompts/prompt-variants.json"
+    },
+    {
+      "auth": {
+        "field": "OMNIROUTE_API_KEY / OpenCode auth.omniroute.key / Codex auth",
+        "mechanism": "redacted local auth or Codex auth",
+        "value": "<REDACTED>"
+      },
+      "backend": "codex CLI",
+      "batch_size": 25,
+      "concurrency": "two independent host processes for the same model; not two models",
+      "dataset": {
+        "mera": "datasets/MERA/data",
+        "slava": "datasets/SLAVA/open_questions_dataset.jsonl",
+        "splits": [
+          "SLAVA local open_questions_dataset",
+          "MERA test only"
+        ]
+      },
+      "endpoint": "Codex-managed endpoint; URL unknown",
+      "git_commit": "f1041db",
+      "git_dirty_at_launch": "unknown / not recoverable",
+      "host": "roomhacker-server-100",
+      "max_completion_tokens": null,
+      "model": "gpt-5.6-sol",
+      "notes": [
+        "500 records; two-process shard 0; later retry code was committed but did not append more records"
+      ],
+      "outputs": [
+        "results/full/sol-gpt-5.6-sol-lane-0.jsonl"
+      ],
+      "platform": "Linux-6.8.0-136-generic-x86_64-with-glibc2.35",
+      "provider": "OpenAI/Codex runtime",
+      "reasoning_effort": "unknown / not recoverable",
+      "reasoning_split": "unknown / not recoverable",
+      "retries": 0,
+      "run_id": "sol-full-lane-0-partial",
+      "runner": "scripts/full_benchmark_runner.py",
+      "sequential_tasks": [
+        "mera:rutie:*"
+      ],
+      "service_tier": "unknown / not recoverable",
+      "shard": "recorded in output filename; shard count 2",
+      "status": "partial",
+      "system_prompt": "unknown / not recoverable as a separate field; Codex CLI supplied its own system/runtime prompt",
+      "temperature": 0,
+      "thinking": "unknown / not recoverable",
+      "timeout_seconds": 120,
+      "timestamp": "recovered from transcript; exact command start not recoverable",
+      "wrapper_prompt": "see prompts/prompt-variants.json"
+    },
+    {
+      "auth": {
+        "field": "OMNIROUTE_API_KEY / OpenCode auth.omniroute.key / Codex auth",
+        "mechanism": "redacted local auth or Codex auth",
+        "value": "<REDACTED>"
+      },
+      "backend": "codex CLI",
+      "batch_size": 25,
+      "concurrency": "two independent host processes for the same model; not two models",
+      "dataset": {
+        "mera": "datasets/MERA/data",
+        "slava": "datasets/SLAVA/open_questions_dataset.jsonl",
+        "splits": [
+          "SLAVA local open_questions_dataset",
+          "MERA test only"
+        ]
+      },
+      "endpoint": "Codex-managed endpoint; URL unknown",
+      "git_commit": "f1041db",
+      "git_dirty_at_launch": "unknown / not recoverable",
+      "host": "roomhacker-server-100",
+      "max_completion_tokens": null,
+      "model": "gpt-5.6-sol",
+      "notes": [
+        "525 records; two-process shard 1; ruTiE not reached"
+      ],
+      "outputs": [
+        "results/full/sol-gpt-5.6-sol-lane-1.jsonl"
+      ],
+      "platform": "Linux-6.8.0-136-generic-x86_64-with-glibc2.35",
+      "provider": "OpenAI/Codex runtime",
+      "reasoning_effort": "unknown / not recoverable",
+      "reasoning_split": "unknown / not recoverable",
+      "retries": 0,
+      "run_id": "sol-full-lane-1-partial",
+      "runner": "scripts/full_benchmark_runner.py",
+      "sequential_tasks": [
+        "mera:rutie:*"
+      ],
+      "service_tier": "unknown / not recoverable",
+      "shard": "recorded in output filename; shard count 2",
+      "status": "partial",
+      "system_prompt": "unknown / not recoverable as a separate field; Codex CLI supplied its own system/runtime prompt",
+      "temperature": 0,
+      "thinking": "unknown / not recoverable",
+      "timeout_seconds": 120,
+      "timestamp": "recovered from transcript; exact command start not recoverable",
+      "wrapper_prompt": "see prompts/prompt-variants.json"
+    },
+    {
+      "auth": {
+        "field": "OMNIROUTE_API_KEY / OpenCode auth.omniroute.key / Codex auth",
+        "mechanism": "redacted local auth or Codex auth",
+        "value": "<REDACTED>"
+      },
+      "backend": "OpenAI-compatible HTTP",
+      "batch_size": "25 then 5; later 10 canary",
+      "concurrency": "two independent host processes for the same model; not two models",
+      "dataset": {
+        "mera": "datasets/MERA/data",
+        "slava": "datasets/SLAVA/open_questions_dataset.jsonl",
+        "splits": [
+          "SLAVA local open_questions_dataset",
+          "MERA test only"
+        ]
+      },
+      "endpoint": "http://127.0.0.1:20128/v1/chat/completions",
+      "git_commit": "f3035b4",
+      "git_dirty_at_launch": "unknown / not recoverable",
+      "host": "roomhacker-server-100",
+      "max_completion_tokens": "1024 then 512; effective upstream limit observed as 256 on long batch",
+      "model": "minimax/MiniMax-M3",
+      "notes": [
+        "3,110 records total at forensic cutoff; batch 25 sometimes truncated/incomplete JSON; batch 5 more stable; parallel lanes showed instability",
+        "live receipt with reasoning_split true is retained in session transcript; exact per-request receipts not persisted"
+      ],
+      "outputs": [
+        "results/full/minimax-m3-lane-0.jsonl",
+        "results/full/minimax-m3-lane-1.jsonl"
+      ],
+      "platform": "Linux-6.8.0-136-generic-x86_64-with-glibc2.35",
+      "provider": "OmniRoute via OpenCode auth.omniroute",
+      "reasoning_effort": "unknown / not recoverable",
+      "reasoning_split": true,
+      "retries": "0 initially; 3/4 after retry fix",
+      "run_id": "minimax-m3-partial-mixed-batches",
+      "runner": "scripts/full_benchmark_runner.py",
+      "sequential_tasks": [
+        "mera:rutie:*"
+      ],
+      "service_tier": "unknown / not recoverable",
+      "shard": "recorded in output filename; shard count 2",
+      "status": "partial",
+      "system_prompt": "unknown / not recoverable as a separate field; Codex CLI supplied its own system/runtime prompt",
+      "temperature": 0,
+      "thinking": {
+        "type": "disabled"
+      },
+      "timeout_seconds": 120,
+      "timestamp": "recovered from transcript; exact command start not recoverable",
+      "wrapper_prompt": "see prompts/prompt-variants.json"
+    },
+    {
+      "auth": {
+        "field": "OMNIROUTE_API_KEY / OpenCode auth.omniroute.key / Codex auth",
+        "mechanism": "redacted local auth or Codex auth",
+        "value": "<REDACTED>"
+      },
+      "backend": "OpenAI-compatible HTTP",
+      "batch_size": 10,
+      "concurrency": "two independent host processes for the same model; not two models",
+      "dataset": {
+        "mera": "datasets/MERA/data",
+        "slava": "datasets/SLAVA/open_questions_dataset.jsonl",
+        "splits": [
+          "SLAVA local open_questions_dataset",
+          "MERA test only"
+        ]
+      },
+      "endpoint": "http://127.0.0.1:20128/v1/chat/completions",
+      "git_commit": "b2c4149",
+      "git_dirty_at_launch": "unknown / not recoverable",
+      "host": "roomhacker-server-100",
+      "max_completion_tokens": 256,
+      "model": "minimax/MiniMax-M3",
+      "notes": [
+        "live receipt: reasoning_tokens=0; 10/10 JSON records; no historical response rows were safely attributed to this post-change canary"
+      ],
+      "outputs": [],
+      "platform": "Linux-6.8.0-136-generic-x86_64-with-glibc2.35",
+      "provider": "OmniRoute via OpenCode auth.omniroute",
+      "reasoning_effort": "unknown / not applicable",
+      "reasoning_split": false,
+      "retries": 4,
+      "run_id": "minimax-m3-no-reasoning-canary",
+      "runner": "scripts/full_benchmark_runner.py",
+      "sequential_tasks": [
+        "mera:rutie:*"
+      ],
+      "service_tier": "unknown / not recoverable",
+      "shard": "recorded in output filename; shard count 2",
+      "status": "complete-canary",
+      "system_prompt": "unknown / not recoverable as a separate field; Codex CLI supplied its own system/runtime prompt",
+      "temperature": 0,
+      "thinking": {
+        "type": "disabled"
+      },
+      "timeout_seconds": 120,
+      "timestamp": "recovered from transcript; exact command start not recoverable",
+      "wrapper_prompt": "see prompts/prompt-variants.json"
+    }
+  ]
+}

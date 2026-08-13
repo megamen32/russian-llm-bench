@@ -4,4 +4,3 @@ __pycache__/
 .env.*
 results/*-raw-log*
 /graphify-out/
-results/full/

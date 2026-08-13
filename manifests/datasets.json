@@ -1,0 +1,241 @@
+{
+  "datasets": [
+    {
+      "files": [
+        {
+          "bytes": 4644082,
+          "path": "datasets/SLAVA/open_questions_dataset.jsonl",
+          "sha256": "714bcbf35c913fc593e27a14d33c9a6c07b7a8f6f1b64d609d31c43ad70b753d"
+        }
+      ],
+      "local_changes": "prompt rendering performed by runner; source files copied unchanged",
+      "name": "SLAVA",
+      "snapshot": "/home/roomhacker/.cache/huggingface/hub/datasets--RANEPA-ai--SLAVA-OpenData-2800-v1/snapshots/084f06068978f79f8af9d225395abb449f80e275/open_questions_dataset.jsonl",
+      "source": "local Hugging Face cache snapshot; upstream commit/tag unknown / not recoverable"
+    },
+    {
+      "files": [
+        {
+          "bytes": 478089,
+          "path": "datasets/MERA/data/bps/test.jsonl",
+          "sha256": "c12f1d6088c21e1f611fd5d7a5280100d4f9b4c763736073c4ad68e7cc34151a"
+        },
+        {
+          "bytes": 119685,
+          "path": "datasets/MERA/data/bps/train.jsonl",
+          "sha256": "8fa0b29540810e36f793d49412d65161877a07b6668150084d69ebf7ced83454"
+        },
+        {
+          "bytes": 385100,
+          "path": "datasets/MERA/data/chegeka/test.jsonl",
+          "sha256": "5db22ac1db17401361fb97217fa0a76359940027ee4b39b19a284042c8de032c"
+        },
+        {
+          "bytes": 26479927,
+          "path": "datasets/MERA/data/chegeka/train.jsonl",
+          "sha256": "ef2fda709e5eddaa2c4d3eabc5a8ec0a14dad597b67550f47585d1de084d14d8"
+        },
+        {
+          "bytes": 212162,
+          "path": "datasets/MERA/data/lcs/test.jsonl",
+          "sha256": "9194a918ef1f050255d3c5bf042414d68e621f8f4fd203025718b2f96646a6f4"
+        },
+        {
+          "bytes": 135891,
+          "path": "datasets/MERA/data/lcs/train.jsonl",
+          "sha256": "dda04838fffbaae201ac5ff3dbacc8d68caf08e04d054ff5d1504e811758428e"
+        },
+        {
+          "bytes": 752149,
+          "path": "datasets/MERA/data/mathlogicqa/test.jsonl",
+          "sha256": "fbf14cb532f6ad468c0695b16fbab71272f02ab799c130c43c94d0e64eb17c7c"
+        },
+        {
+          "bytes": 471328,
+          "path": "datasets/MERA/data/mathlogicqa/train.jsonl",
+          "sha256": "e801c22053f9c3a74a5f4c5a2cf883a9fe14baf43644f94d96dc600475e48726"
+        },
+        {
+          "bytes": 3066007,
+          "path": "datasets/MERA/data/multiq/test.jsonl",
+          "sha256": "aa68ac54571330cebaf59ee0cad8d7bec1a1073e174ed47b226a5fec2f694baa"
+        },
+        {
+          "bytes": 2942173,
+          "path": "datasets/MERA/data/multiq/train.jsonl",
+          "sha256": "cfad6a24118cf8725ecf76aaa226755284b50402e7968768338df83790949072"
+        },
+        {
+          "bytes": 69121,
+          "path": "datasets/MERA/data/parus/dev.jsonl",
+          "sha256": "2752e5ade47ff250b9f4dc4be5b5151c6341f836cdf2ee509ff0a65434fecddc"
+        },
+        {
+          "bytes": 341590,
+          "path": "datasets/MERA/data/parus/test.jsonl",
+          "sha256": "db3d0b3670c31903545ad37c4260e5c3ca4dc7602c069e5baf9df06d20bb265b"
+        },
+        {
+          "bytes": 273519,
+          "path": "datasets/MERA/data/parus/train.jsonl",
+          "sha256": "14b6ea179b5387766393101fc9eb29a3ed7a5416bb375b5be7f1562027485e1c"
+        },
+        {
+          "bytes": 230530,
+          "path": "datasets/MERA/data/rcb/dev.jsonl",
+          "sha256": "01054462351b08b709ec5eacfea0df36e25190475977a59e527a904d3c33ab6d"
+        },
+        {
+          "bytes": 470895,
+          "path": "datasets/MERA/data/rcb/test.jsonl",
+          "sha256": "b19f32a33ea26a7b089b57d3edcd27573ab3e13eba5c9e805460282f230a918b"
+        },
+        {
+          "bytes": 464093,
+          "path": "datasets/MERA/data/rcb/train.jsonl",
+          "sha256": "4e5ee49a1f1651e6cb678b40e10683bfc934d407c6318bdae3094f9d9c16e3ed"
+        },
+        {
+          "bytes": 513652,
+          "path": "datasets/MERA/data/rudetox/test.jsonl",
+          "sha256": "32db8f776775e768ec89a2edfad76e51a3e10b18409a6b4afa110c5696c449c2"
+        },
+        {
+          "bytes": 4460567,
+          "path": "datasets/MERA/data/rudetox/train.jsonl",
+          "sha256": "aefbb791f852721d710a9040dbb9aa19361ea84a5379d36135320fe685deeb55"
+        },
+        {
+          "bytes": 4529463,
+          "path": "datasets/MERA/data/ruethics/test.jsonl",
+          "sha256": "1823eabb47951fa598c43dfb45611ac877a9a5e8875cbe5f809c0b55ce3f3f49"
+        },
+        {
+          "bytes": 573661,
+          "path": "datasets/MERA/data/ruhatespeech/test.jsonl",
+          "sha256": "a05ea2ea3b4e6dc8277906cfbf60fe63417d7cf87f481504bee6e3688fb73854"
+        },
+        {
+          "bytes": 537845,
+          "path": "datasets/MERA/data/ruhhh/test.jsonl",
+          "sha256": "4b675749760e1849cc6e9f6cd6a4fc4276ed9e59e900f985a5d724bad31c4f05"
+        },
+        {
+          "bytes": 254307,
+          "path": "datasets/MERA/data/ruhumaneval/test.jsonl",
+          "sha256": "6fe348371047e49238ae0c94ae3240b57e3493e6b60b4655001b8d40efe3bfff"
+        },
+        {
+          "bytes": 614120,
+          "path": "datasets/MERA/data/ruhumaneval/train.jsonl",
+          "sha256": "58da53c83c60d5e7b3934b8ccfbc1a88d4a8cf206796daecbd3db22ab3d03eb8"
+        },
+        {
+          "bytes": 844974,
+          "path": "datasets/MERA/data/rummlu/test.jsonl",
+          "sha256": "d6255cdc6168a08d4a707b01e209980a14f3a0ab8c98b82abeb0246746fab30d"
+        },
+        {
+          "bytes": 13311723,
+          "path": "datasets/MERA/data/rummlu/train.jsonl",
+          "sha256": "82515d77c4eabe6f6b432ecff91873097610b224dc04cb688349345c515219f9"
+        },
+        {
+          "bytes": 3250544,
+          "path": "datasets/MERA/data/rumodar/test.jsonl",
+          "sha256": "c1f1ca5c31e5c781b84b4bf265ac325c687b0dc6d45a358300c49b520fa87ca8"
+        },
+        {
+          "bytes": 3270883,
+          "path": "datasets/MERA/data/rumodar/train.jsonl",
+          "sha256": "a0cdccc49c82af972c7d44080e43181e41659f6f77c243a633c0e305989a7302"
+        },
+        {
+          "bytes": 356004,
+          "path": "datasets/MERA/data/rumultiar/test.jsonl",
+          "sha256": "aa712775a88913e0a0aaab7b2c3dfe0e2f7252ff58e08e935538c48411b42c03"
+        },
+        {
+          "bytes": 363039,
+          "path": "datasets/MERA/data/rumultiar/train.jsonl",
+          "sha256": "374a69581c566c3e0c5ebb28a1c1ac2acd044599707dffb095d880ec4209edb4"
+        },
+        {
+          "bytes": 277572,
+          "path": "datasets/MERA/data/ruopenbookqa/test.jsonl",
+          "sha256": "6d07dfdf21bd46c8e4e26578bb0de6f2f32b963a31a7f28d20a526885dde0307"
+        },
+        {
+          "bytes": 1571070,
+          "path": "datasets/MERA/data/ruopenbookqa/train.jsonl",
+          "sha256": "727e8edd18f066bf9ab0abf9edad2a7b728a26a5c482d2d086868c889e6deace"
+        },
+        {
+          "bytes": 343256,
+          "path": "datasets/MERA/data/rutie/test.jsonl",
+          "sha256": "0329e9c133c88bcfff6f675791e1552979f0d108ead9f3f90d4deeeea6b5867b"
+        },
+        {
+          "bytes": 338763,
+          "path": "datasets/MERA/data/rutie/train.jsonl",
+          "sha256": "2ced7e300bf01c9e69befa2f31072e22246e1a457bb68cc0aebd4bed6fec54da"
+        },
+        {
+          "bytes": 470465,
+          "path": "datasets/MERA/data/ruworldtree/test.jsonl",
+          "sha256": "df83aacfb020539f0fcc23dbfdef56bc6b75f368c0e62bd202779bdb865f5cf4"
+        },
+        {
+          "bytes": 100262,
+          "path": "datasets/MERA/data/ruworldtree/train.jsonl",
+          "sha256": "d884206c5d852ce652e345bfec565640b80581b29564a0bdfadeca801f496e06"
+        },
+        {
+          "bytes": 239370,
+          "path": "datasets/MERA/data/rwsd/dev.jsonl",
+          "sha256": "8eb0ac5590ff050b12a51d6a0467717914a2f1e2c583cff924535ff6d6445d47"
+        },
+        {
+          "bytes": 281331,
+          "path": "datasets/MERA/data/rwsd/test.jsonl",
+          "sha256": "24454bb0f007b17632f90296d954c62d12c5d526b5a01d54afd1a6e76975f585"
+        },
+        {
+          "bytes": 583163,
+          "path": "datasets/MERA/data/rwsd/train.jsonl",
+          "sha256": "b69d853055ef435e8d12392f3f034dc954c3896889206b172afdcede892e43fc"
+        },
+        {
+          "bytes": 183377,
+          "path": "datasets/MERA/data/simplear/test.jsonl",
+          "sha256": "375d9d26b469468cffce8272d3d7fb4be7eefb4f6e22674ea4e28ef14daddf0d"
+        },
+        {
+          "bytes": 187363,
+          "path": "datasets/MERA/data/simplear/train.jsonl",
+          "sha256": "e05125ec56a7947c9b05e31b555ae1910d111763bd342cfaf57aa9dda31fd2aa"
+        },
+        {
+          "bytes": 2171126,
+          "path": "datasets/MERA/data/use/dev.jsonl",
+          "sha256": "090041bc15b0fdf46e74f2dcbaba1b9d7bf1f9e3164f8ebc2a1f4af264f53b8d"
+        },
+        {
+          "bytes": 2297537,
+          "path": "datasets/MERA/data/use/test.jsonl",
+          "sha256": "bef018b5c3afe0f65e24d821860413dac6511a1b01705beda6492b5baf59d172"
+        },
+        {
+          "bytes": 7023292,
+          "path": "datasets/MERA/data/use/train.jsonl",
+          "sha256": "a68771e8dfc4ff6aac826745877f6cfd8229feab7a2f31a9cbf0a9113a67df3d"
+        }
+      ],
+      "local_changes": "prompt rendering performed by runner; source files copied unchanged",
+      "name": "MERA",
+      "snapshot": "/home/roomhacker/.cache/huggingface/hub/datasets--ai-forever--MERA/snapshots/1af9c02a469b6e614e7afed73f7d27f71de7caf5/data",
+      "source": "local Hugging Face cache snapshot; upstream commit/tag unknown / not recoverable"
+    }
+  ],
+  "generated_at": "2026-08-13T20:21:33.479691+00:00"
+}

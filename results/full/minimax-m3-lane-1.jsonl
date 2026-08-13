@@ -1,0 +1,910 @@
+{"id": "slava:7195", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7195, "answer": "1236", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4951}
+{"id": "slava:311", "benchmark": "slava", "task": "открытый ответ", "index": 311, "answer": "Алжир", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4951}
+{"id": "slava:2485", "benchmark": "slava", "task": "открытый ответ", "index": 2485, "answer": "Ростовская область", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4951}
+{"id": "slava:1935", "benchmark": "slava", "task": "установление соответствия", "index": 1935, "answer": "143", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4951}
+{"id": "slava:5837", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5837, "answer": "235", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4951}
+{"id": "slava:12443", "benchmark": "slava", "task": "выбор ответа (один)", "index": 12443, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4951}
+{"id": "slava:3043", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 3043, "answer": "235", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4951}
+{"id": "slava:4643", "benchmark": "slava", "task": "открытый ответ", "index": 4643, "answer": "Ценная бумага", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4951}
+{"id": "slava:5689", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5689, "answer": "135", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4951}
+{"id": "slava:5309", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5309, "answer": "35", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4951}
+{"id": "slava:13611", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 13611, "answer": "245", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4951}
+{"id": "slava:8251", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8251, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4951}
+{"id": "slava:13239", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 13239, "answer": "14", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4951}
+{"id": "slava:13145", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 13145, "answer": "145", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4951}
+{"id": "slava:5725", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5725, "answer": "23", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4951}
+{"id": "slava:1453", "benchmark": "slava", "task": "указание последовательности", "index": 1453, "answer": "231", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4951}
+{"id": "slava:3941", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3941, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4951}
+{"id": "slava:169", "benchmark": "slava", "task": "выбор ответа (один)", "index": 169, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4951}
+{"id": "slava:353", "benchmark": "slava", "task": "выбор ответа (один)", "index": 353, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4951}
+{"id": "slava:3963", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3963, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4951}
+{"id": "slava:5425", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5425, "answer": "123", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4951}
+{"id": "slava:4329", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4329, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4951}
+{"id": "slava:11553", "benchmark": "slava", "task": "установление соответствия", "index": 11553, "answer": "5135", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4951}
+{"id": "slava:8537", "benchmark": "slava", "task": "открытый ответ", "index": 8537, "answer": "1237-1480", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4951}
+{"id": "slava:1611", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1611, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4951}
+{"id": "slava:4919", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4919, "answer": "135", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5514}
+{"id": "slava:7075", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7075, "answer": "15", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5514}
+{"id": "slava:10313", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10313, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5514}
+{"id": "slava:2227", "benchmark": "slava", "task": "установление соответствия", "index": 2227, "answer": "143", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5514}
+{"id": "slava:2157", "benchmark": "slava", "task": "открытый ответ", "index": 2157, "answer": "Япония", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5514}
+{"id": "slava:8791", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 8791, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5514}
+{"id": "slava:5145", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5145, "answer": "124", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5514}
+{"id": "slava:2271", "benchmark": "slava", "task": "указание последовательности", "index": 2271, "answer": "231", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5514}
+{"id": "slava:6489", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6489, "answer": "1345", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5514}
+{"id": "slava:5595", "benchmark": "slava", "task": "открытый ответ", "index": 5595, "answer": "Суверенитет", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5514}
+{"id": "slava:10501", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10501, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5514}
+{"id": "slava:11035", "benchmark": "slava", "task": "выбор ответа (один)", "index": 11035, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5514}
+{"id": "slava:12675", "benchmark": "slava", "task": "установление соответствия", "index": 12675, "answer": "341", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5514}
+{"id": "slava:11361", "benchmark": "slava", "task": "установление соответствия", "index": 11361, "answer": "6541", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5514}
+{"id": "slava:11929", "benchmark": "slava", "task": "открытый ответ", "index": 11929, "answer": "Военный коммунизм", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5514}
+{"id": "slava:5623", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5623, "answer": "123", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5514}
+{"id": "slava:4075", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4075, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5514}
+{"id": "slava:4863", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4863, "answer": "145", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5514}
+{"id": "slava:3753", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3753, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5514}
+{"id": "slava:3233", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3233, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5514}
+{"id": "slava:3441", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3441, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5514}
+{"id": "slava:903", "benchmark": "slava", "task": "выбор ответа (один)", "index": 903, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5514}
+{"id": "slava:11095", "benchmark": "slava", "task": "выбор ответа (один)", "index": 11095, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5514}
+{"id": "slava:10285", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10285, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5514}
+{"id": "slava:4209", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4209, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5514}
+{"id": "slava:1489", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1489, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2931}
+{"id": "slava:8975", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8975, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2931}
+{"id": "slava:1783", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 1783, "answer": "236", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2931}
+{"id": "slava:8373", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8373, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2931}
+{"id": "slava:3429", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3429, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2931}
+{"id": "slava:6005", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6005, "answer": "146", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2931}
+{"id": "slava:9059", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9059, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2931}
+{"id": "slava:13291", "benchmark": "slava", "task": "выбор ответа (один)", "index": 13291, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2931}
+{"id": "slava:11891", "benchmark": "slava", "task": "установление соответствия", "index": 11891, "answer": "3461", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2931}
+{"id": "slava:6847", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6847, "answer": "124", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2931}
+{"id": "slava:1433", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1433, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2931}
+{"id": "slava:357", "benchmark": "slava", "task": "выбор ответа (один)", "index": 357, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2931}
+{"id": "slava:1739", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 1739, "answer": "234", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2931}
+{"id": "slava:1579", "benchmark": "slava", "task": "открытый ответ", "index": 1579, "answer": "Индонезия", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2931}
+{"id": "slava:6073", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6073, "answer": "1356", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2931}
+{"id": "slava:8997", "benchmark": "slava", "task": "установление соответствия", "index": 8997, "answer": "2314", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2931}
+{"id": "slava:3833", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3833, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2931}
+{"id": "slava:11133", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11133, "answer": "3456", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2931}
+{"id": "slava:3487", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3487, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2931}
+{"id": "slava:11999", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11999, "answer": "356", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2931}
+{"id": "slava:4817", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4817, "answer": "34", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2931}
+{"id": "slava:2531", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2531, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2931}
+{"id": "slava:6351", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6351, "answer": "123", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2931}
+{"id": "slava:4351", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4351, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2931}
+{"id": "slava:5405", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5405, "answer": "35", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2931}
+{"id": "slava:8437", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8437, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5171}
+{"id": "slava:9787", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9787, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5171}
+{"id": "slava:977", "benchmark": "slava", "task": "выбор ответа (один)", "index": 977, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5171}
+{"id": "slava:2769", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2769, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5171}
+{"id": "slava:11341", "benchmark": "slava", "task": "установление соответствия", "index": 11341, "answer": "645", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5171}
+{"id": "slava:1723", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 1723, "answer": "24", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5171}
+{"id": "slava:8565", "benchmark": "slava", "task": "открытый ответ", "index": 8565, "answer": "Никон", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5171}
+{"id": "slava:7787", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7787, "answer": "156", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5171}
+{"id": "slava:4149", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4149, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5171}
+{"id": "slava:907", "benchmark": "slava", "task": "выбор ответа (один)", "index": 907, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5171}
+{"id": "slava:11541", "benchmark": "slava", "task": "установление соответствия", "index": 11541, "answer": "645", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5171}
+{"id": "slava:7699", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7699, "answer": "146", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5171}
+{"id": "slava:13695", "benchmark": "slava", "task": "открытый ответ", "index": 13695, "answer": "В.И. Ленин", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5171}
+{"id": "slava:10533", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10533, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5171}
+{"id": "slava:1953", "benchmark": "slava", "task": "установление соответствия", "index": 1953, "answer": "693", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5171}
+{"id": "slava:8793", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8793, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5171}
+{"id": "slava:10739", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10739, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5171}
+{"id": "slava:4457", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4457, "answer": "34", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5171}
+{"id": "slava:12507", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 12507, "answer": "34", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5171}
+{"id": "slava:7801", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7801, "answer": "1246", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5171}
+{"id": "slava:13329", "benchmark": "slava", "task": "указание последовательности", "index": 13329, "answer": "312", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5171}
+{"id": "slava:9573", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9573, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5171}
+{"id": "slava:1139", "benchmark": "slava", "task": "открытый ответ", "index": 1139, "answer": "Нигерия", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5171}
+{"id": "slava:8823", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8823, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5171}
+{"id": "slava:4649", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4649, "answer": "235", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 5171}
+{"id": "slava:9159", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9159, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4554}
+{"id": "slava:8861", "benchmark": "slava", "task": "открытый ответ", "index": 8861, "answer": "Брежнев", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4554}
+{"id": "slava:8731", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8731, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4554}
+{"id": "slava:2771", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2771, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4554}
+{"id": "slava:11735", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11735, "answer": "14", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4554}
+{"id": "slava:1655", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 1655, "answer": "23", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4554}
+{"id": "slava:8651", "benchmark": "slava", "task": "открытый ответ", "index": 8651, "answer": "Польше", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4554}
+{"id": "slava:327", "benchmark": "slava", "task": "выбор ответа (один)", "index": 327, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4554}
+{"id": "slava:6945", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6945, "answer": "136", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4554}
+{"id": "slava:4739", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4739, "answer": "34", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4554}
+{"id": "slava:1253", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1253, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4554}
+{"id": "slava:6075", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6075, "answer": "56", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4554}
+{"id": "slava:1957", "benchmark": "slava", "task": "установление соответствия", "index": 1957, "answer": "452", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4554}
+{"id": "slava:7771", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7771, "answer": "14", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4554}
+{"id": "slava:7889", "benchmark": "slava", "task": "выбор ответа (один)", "index": 7889, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4554}
+{"id": "slava:2323", "benchmark": "slava", "task": "указание последовательности", "index": 2323, "answer": "123", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4554}
+{"id": "slava:10133", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10133, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4554}
+{"id": "slava:9241", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9241, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4554}
+{"id": "slava:4953", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4953, "answer": "136", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4554}
+{"id": "slava:7639", "benchmark": "slava", "task": "открытый ответ", "index": 7639, "answer": "Олег", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4554}
+{"id": "slava:3485", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3485, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4554}
+{"id": "slava:4991", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4991, "answer": "134", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4554}
+{"id": "slava:4097", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4097, "answer": "13", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4554}
+{"id": "slava:7053", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7053, "answer": "45", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4554}
+{"id": "slava:11101", "benchmark": "slava", "task": "выбор ответа (один)", "index": 11101, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4554}
+{"id": "slava:3059", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3059, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3231}
+{"id": "slava:1039", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1039, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3231}
+{"id": "slava:4509", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4509, "answer": "34", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3231}
+{"id": "slava:6291", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6291, "answer": "12", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3231}
+{"id": "slava:13037", "benchmark": "slava", "task": "выбор ответа (один)", "index": 13037, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3231}
+{"id": "slava:11039", "benchmark": "slava", "task": "выбор ответа (один)", "index": 11039, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3231}
+{"id": "slava:2201", "benchmark": "slava", "task": "установление соответствия", "index": 2201, "answer": "153", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3231}
+{"id": "slava:1351", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1351, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3231}
+{"id": "slava:12753", "benchmark": "slava", "task": "открытый ответ", "index": 12753, "answer": "Дионисий", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3231}
+{"id": "slava:7337", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7337, "answer": "2346", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3231}
+{"id": "slava:4099", "benchmark": "slava", "task": "открытый ответ", "index": 4099, "answer": "социальная динамика", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3231}
+{"id": "slava:8969", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 8969, "answer": "236", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3231}
+{"id": "slava:13721", "benchmark": "slava", "task": "указание последовательности", "index": 13721, "answer": "231", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3231}
+{"id": "slava:11347", "benchmark": "slava", "task": "установление соответствия", "index": 11347, "answer": "421", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3231}
+{"id": "slava:1493", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1493, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3231}
+{"id": "slava:6223", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6223, "answer": "13", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3231}
+{"id": "slava:1769", "benchmark": "slava", "task": "указание последовательности", "index": 1769, "answer": "231", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3231}
+{"id": "slava:1053", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1053, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3231}
+{"id": "slava:10149", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10149, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3231}
+{"id": "slava:2471", "benchmark": "slava", "task": "открытый ответ", "index": 2471, "answer": "Нижегородская область", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3231}
+{"id": "slava:10405", "benchmark": "slava", "task": "открытый ответ", "index": 10405, "answer": "Табель о рангах", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3231}
+{"id": "slava:11823", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11823, "answer": "126", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3231}
+{"id": "slava:4767", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4767, "answer": "124", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3231}
+{"id": "slava:7785", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7785, "answer": "145", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3231}
+{"id": "slava:7649", "benchmark": "slava", "task": "открытый ответ", "index": 7649, "answer": "1242", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3231}
+{"id": "slava:455", "benchmark": "slava", "task": "установление соответствия", "index": 455, "answer": "432", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1833}
+{"id": "slava:9265", "benchmark": "slava", "task": "установление соответствия", "index": 9265, "answer": "2231", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1833}
+{"id": "slava:1121", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1121, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1833}
+{"id": "slava:487", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 487, "answer": "246", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1833}
+{"id": "slava:8797", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 8797, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1833}
+{"id": "slava:8067", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8067, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1833}
+{"id": "slava:2069", "benchmark": "slava", "task": "открытый ответ", "index": 2069, "answer": "Япония", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1833}
+{"id": "slava:10297", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 10297, "answer": "124", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1833}
+{"id": "slava:5899", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5899, "answer": "124", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1833}
+{"id": "slava:2753", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2753, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1833}
+{"id": "slava:6499", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6499, "answer": "46", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1833}
+{"id": "slava:13079", "benchmark": "slava", "task": "установление соответствия", "index": 13079, "answer": "4253", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1833}
+{"id": "slava:11913", "benchmark": "slava", "task": "установление соответствия", "index": 11913, "answer": "5123", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1833}
+{"id": "slava:14011", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 14011, "answer": "145", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1833}
+{"id": "slava:6967", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6967, "answer": "135", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1833}
+{"id": "slava:8221", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8221, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1833}
+{"id": "slava:2609", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2609, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1833}
+{"id": "slava:2791", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2791, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1833}
+{"id": "slava:4365", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4365, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1833}
+{"id": "slava:7695", "benchmark": "slava", "task": "указание последовательности", "index": 7695, "answer": "312", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1833}
+{"id": "slava:12337", "benchmark": "slava", "task": "выбор ответа (один)", "index": 12337, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1833}
+{"id": "slava:10475", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10475, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1833}
+{"id": "slava:8115", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8115, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1833}
+{"id": "slava:8099", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8099, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1833}
+{"id": "slava:6515", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6515, "answer": "1356", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1833}
+{"id": "slava:3275", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3275, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 7568}
+{"id": "slava:13289", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 13289, "answer": "235", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 7568}
+{"id": "slava:5263", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5263, "answer": "125", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 7568}
+{"id": "slava:1061", "benchmark": "slava", "task": "установление соответствия", "index": 1061, "answer": "421", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 7568}
+{"id": "slava:4035", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4035, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 7568}
+{"id": "slava:14047", "benchmark": "slava", "task": "указание последовательности", "index": 14047, "answer": "312", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 7568}
+{"id": "slava:10113", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10113, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 7568}
+{"id": "slava:11373", "benchmark": "slava", "task": "открытый ответ", "index": 11373, "answer": "Ленин", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 7568}
+{"id": "slava:10071", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10071, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 7568}
+{"id": "slava:27", "benchmark": "slava", "task": "выбор ответа (один)", "index": 27, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 7568}
+{"id": "slava:11313", "benchmark": "slava", "task": "установление соответствия", "index": 11313, "answer": "3524", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 7568}
+{"id": "slava:9941", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 9941, "answer": "24", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 7568}
+{"id": "slava:7553", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7553, "answer": "345", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 7568}
+{"id": "slava:5035", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5035, "answer": "235", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 7568}
+{"id": "slava:11389", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11389, "answer": "156", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 7568}
+{"id": "slava:13957", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 13957, "answer": "14", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 7568}
+{"id": "slava:12509", "benchmark": "slava", "task": "открытый ответ", "index": 12509, "answer": "Уроки", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 7568}
+{"id": "slava:12021", "benchmark": "slava", "task": "открытый ответ", "index": 12021, "answer": "Хрущёв", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 7568}
+{"id": "slava:10491", "benchmark": "slava", "task": "открытый ответ", "index": 10491, "answer": "1) Резкое падение уровня жизни населения из-за либерализации цен и инфляции. 2) Массовая безработица и невыплаты зарплат на предприятиях. 3) Обесценивание сбережений граждан и рост социального расслоения.", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 7568}
+{"id": "slava:4801", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4801, "answer": "125", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 7568}
+{"id": "slava:1747", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 1747, "answer": "156", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 7568}
+{"id": "slava:3469", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3469, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 7568}
+{"id": "slava:6053", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6053, "answer": "134", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 7568}
+{"id": "slava:4947", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4947, "answer": "124", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 7568}
+{"id": "slava:101", "benchmark": "slava", "task": "выбор ответа (один)", "index": 101, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 7568}
+{"id": "slava:7157", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7157, "answer": "235", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 41996}
+{"id": "slava:3755", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3755, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 41996}
+{"id": "slava:14083", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 14083, "answer": "25", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 41996}
+{"id": "slava:7711", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7711, "answer": "45", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 41996}
+{"id": "slava:11301", "benchmark": "slava", "task": "установление соответствия", "index": 11301, "answer": "256", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 41996}
+{"id": "slava:11795", "benchmark": "slava", "task": "указание последовательности", "index": 11795, "answer": "213", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 41996}
+{"id": "slava:9051", "benchmark": "slava", "task": "установление соответствия", "index": 9051, "answer": "1324", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 41996}
+{"id": "slava:6119", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6119, "answer": "345", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 41996}
+{"id": "slava:3111", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3111, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 41996}
+{"id": "slava:4347", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4347, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 41996}
+{"id": "slava:3785", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3785, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 41996}
+{"id": "slava:6201", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6201, "answer": "35", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 41996}
+{"id": "slava:5981", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5981, "answer": "46", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 41996}
+{"id": "slava:9255", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9255, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 41996}
+{"id": "slava:9143", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9143, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 41996}
+{"id": "slava:4355", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4355, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 41996}
+{"id": "slava:8359", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8359, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 41996}
+{"id": "slava:10121", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10121, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 41996}
+{"id": "slava:9553", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 9553, "answer": "24", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 41996}
+{"id": "slava:7303", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7303, "answer": "356", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 41996}
+{"id": "slava:173", "benchmark": "slava", "task": "выбор ответа (один)", "index": 173, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 41996}
+{"id": "slava:9595", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9595, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 41996}
+{"id": "slava:8889", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 8889, "answer": "145", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 41996}
+{"id": "slava:31", "benchmark": "slava", "task": "выбор ответа (один)", "index": 31, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 41996}
+{"id": "slava:9669", "benchmark": "slava", "task": "указание последовательности", "index": 9669, "answer": "31524", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 41996}
+{"id": "slava:11871", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11871, "answer": "246", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4351}
+{"id": "slava:399", "benchmark": "slava", "task": "выбор ответа (один)", "index": 399, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4351}
+{"id": "slava:11031", "benchmark": "slava", "task": "выбор ответа (один)", "index": 11031, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4351}
+{"id": "slava:99", "benchmark": "slava", "task": "выбор ответа (один)", "index": 99, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4351}
+{"id": "slava:11993", "benchmark": "slava", "task": "открытый ответ", "index": 11993, "answer": "Хрущёв", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4351}
+{"id": "slava:5437", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5437, "answer": "1345", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4351}
+{"id": "slava:7039", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7039, "answer": "1245", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4351}
+{"id": "slava:5071", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5071, "answer": "126", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4351}
+{"id": "slava:7767", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7767, "answer": "134", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4351}
+{"id": "slava:6631", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6631, "answer": "145", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4351}
+{"id": "slava:14153", "benchmark": "slava", "task": "установление соответствия", "index": 14153, "answer": "1345", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4351}
+{"id": "slava:11927", "benchmark": "slava", "task": "указание последовательности", "index": 11927, "answer": "123", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4351}
+{"id": "slava:10427", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10427, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4351}
+{"id": "slava:9145", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9145, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4351}
+{"id": "slava:4959", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4959, "answer": "1256", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4351}
+{"id": "slava:2459", "benchmark": "slava", "task": "установление соответствия", "index": 2459, "answer": "354", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4351}
+{"id": "slava:13991", "benchmark": "slava", "task": "указание последовательности", "index": 13991, "answer": "213", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4351}
+{"id": "slava:12605", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 12605, "answer": "134", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4351}
+{"id": "slava:8131", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8131, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4351}
+{"id": "slava:3991", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3991, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4351}
+{"id": "slava:4819", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4819, "answer": "456", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4351}
+{"id": "slava:11729", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11729, "answer": "156", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4351}
+{"id": "slava:12993", "benchmark": "slava", "task": "выбор ответа (один)", "index": 12993, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4351}
+{"id": "slava:7731", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7731, "answer": "16", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4351}
+{"id": "slava:13117", "benchmark": "slava", "task": "выбор ответа (один)", "index": 13117, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4351}
+{"id": "slava:7637", "benchmark": "slava", "task": "открытый ответ", "index": 7637, "answer": "15", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3961}
+{"id": "slava:2957", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2957, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3961}
+{"id": "slava:12885", "benchmark": "slava", "task": "указание последовательности", "index": 12885, "answer": "312", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3961}
+{"id": "slava:13367", "benchmark": "slava", "task": "выбор ответа (один)", "index": 13367, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3961}
+{"id": "slava:8729", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8729, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3961}
+{"id": "slava:13041", "benchmark": "slava", "task": "выбор ответа (один)", "index": 13041, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3961}
+{"id": "slava:2081", "benchmark": "slava", "task": "открытый ответ", "index": 2081, "answer": "Италия", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3961}
+{"id": "slava:4695", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4695, "answer": "134", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3961}
+{"id": "slava:795", "benchmark": "slava", "task": "выбор ответа (один)", "index": 795, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3961}
+{"id": "slava:3455", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3455, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3961}
+{"id": "slava:4403", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4403, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3961}
+{"id": "slava:3021", "benchmark": "slava", "task": "установление соответствия", "index": 3021, "answer": "354612", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3961}
+{"id": "slava:9297", "benchmark": "slava", "task": "открытый ответ", "index": 9297, "answer": "концессия", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3961}
+{"id": "slava:11487", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11487, "answer": "26", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3961}
+{"id": "slava:4119", "benchmark": "slava", "task": "открытый ответ", "index": 4119, "answer": "политическая идеология", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3961}
+{"id": "slava:4447", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4447, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3961}
+{"id": "slava:13267", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 13267, "answer": "146", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3961}
+{"id": "slava:339", "benchmark": "slava", "task": "открытый ответ", "index": 339, "answer": "Астраханская область", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3961}
+{"id": "slava:13711", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 13711, "answer": "35", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3961}
+{"id": "slava:4077", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4077, "answer": "246", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3961}
+{"id": "slava:2009", "benchmark": "slava", "task": "установление соответствия", "index": 2009, "answer": "314", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3961}
+{"id": "slava:10515", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10515, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3961}
+{"id": "slava:7515", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7515, "answer": "125", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3961}
+{"id": "slava:6769", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6769, "answer": "456", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3961}
+{"id": "slava:3997", "benchmark": "slava", "task": "установление соответствия", "index": 3997, "answer": "917413", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3961}
+{"id": "slava:12613", "benchmark": "slava", "task": "указание последовательности", "index": 12613, "answer": "231", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2397}
+{"id": "slava:11481", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11481, "answer": "145", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2397}
+{"id": "slava:13087", "benchmark": "slava", "task": "указание последовательности", "index": 13087, "answer": "321", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2397}
+{"id": "slava:9391", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 9391, "answer": "125", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2397}
+{"id": "slava:3251", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3251, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2397}
+{"id": "slava:10373", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10373, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2397}
+{"id": "slava:11121", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11121, "answer": "125", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2397}
+{"id": "slava:9919", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9919, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2397}
+{"id": "slava:3035", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3035, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2397}
+{"id": "slava:6199", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6199, "answer": "2456", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2397}
+{"id": "slava:11549", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11549, "answer": "234", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2397}
+{"id": "slava:8369", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8369, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2397}
+{"id": "slava:10485", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10485, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2397}
+{"id": "slava:8061", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8061, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2397}
+{"id": "slava:12447", "benchmark": "slava", "task": "установление соответствия", "index": 12447, "answer": "514", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2397}
+{"id": "slava:10031", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10031, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2397}
+{"id": "slava:8313", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8313, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2397}
+{"id": "slava:181", "benchmark": "slava", "task": "указание последовательности", "index": 181, "answer": "231", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2397}
+{"id": "slava:3077", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3077, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2397}
+{"id": "slava:11883", "benchmark": "slava", "task": "выбор ответа (один)", "index": 11883, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2397}
+{"id": "slava:3011", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3011, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2397}
+{"id": "slava:6607", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6607, "answer": "146", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2397}
+{"id": "slava:10903", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10903, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2397}
+{"id": "slava:10389", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10389, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2397}
+{"id": "slava:1889", "benchmark": "slava", "task": "открытый ответ", "index": 1889, "answer": "Мексика", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2397}
+{"id": "slava:1923", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 1923, "answer": "135", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3780}
+{"id": "slava:5381", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5381, "answer": "156", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3780}
+{"id": "slava:7583", "benchmark": "slava", "task": "выбор ответа (один)", "index": 7583, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3780}
+{"id": "slava:8763", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8763, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3780}
+{"id": "slava:6321", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6321, "answer": "156", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3780}
+{"id": "slava:4043", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4043, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3780}
+{"id": "slava:11419", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11419, "answer": "126", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3780}
+{"id": "slava:5327", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5327, "answer": "235", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3780}
+{"id": "slava:4463", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4463, "answer": "46", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3780}
+{"id": "slava:9301", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9301, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3780}
+{"id": "slava:3571", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3571, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3780}
+{"id": "slava:9303", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9303, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3780}
+{"id": "slava:13869", "benchmark": "slava", "task": "установление соответствия", "index": 13869, "answer": "2351", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3780}
+{"id": "slava:10115", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 10115, "answer": "1356", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3780}
+{"id": "slava:12093", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 12093, "answer": "123", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3780}
+{"id": "slava:4705", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4705, "answer": "1345", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3780}
+{"id": "slava:10137", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10137, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3780}
+{"id": "slava:9385", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9385, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3780}
+{"id": "slava:13921", "benchmark": "slava", "task": "установление соответствия", "index": 13921, "answer": "6351", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3780}
+{"id": "slava:5843", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5843, "answer": "234", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3780}
+{"id": "slava:5787", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5787, "answer": "23", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3780}
+{"id": "slava:3851", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3851, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3780}
+{"id": "slava:5375", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5375, "answer": "34", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3780}
+{"id": "slava:3063", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3063, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3780}
+{"id": "slava:12435", "benchmark": "slava", "task": "открытый ответ", "index": 12435, "answer": "1. Указ о возвращении беглых крестьян их прежним владельцам. 2. Учреждение Боярской думы с участием представителей служилого сословия. 3. Заключение Столбовского мира со Швецией (1617) и Деулинского перемирия с Польшей (1618), прекращение войн.", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3780}
+{"id": "slava:10569", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10569, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3939}
+{"id": "slava:8613", "benchmark": "slava", "task": "открытый ответ", "index": 8613, "answer": "Кондиции", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3939}
+{"id": "slava:3297", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3297, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3939}
+{"id": "slava:8963", "benchmark": "slava", "task": "указание последовательности", "index": 8963, "answer": "32145", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3939}
+{"id": "slava:9767", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 9767, "answer": "256", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3939}
+{"id": "slava:5205", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5205, "answer": "3456", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3939}
+{"id": "slava:1261", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1261, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3939}
+{"id": "slava:3315", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3315, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3939}
+{"id": "slava:1807", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 1807, "answer": "13", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3939}
+{"id": "slava:8743", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8743, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3939}
+{"id": "slava:14137", "benchmark": "slava", "task": "установление соответствия", "index": 14137, "answer": "6132", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3939}
+{"id": "slava:7907", "benchmark": "slava", "task": "выбор ответа (один)", "index": 7907, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3939}
+{"id": "slava:10483", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10483, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3939}
+{"id": "slava:10221", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10221, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3939}
+{"id": "slava:2655", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2655, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3939}
+{"id": "slava:12361", "benchmark": "slava", "task": "выбор ответа (один)", "index": 12361, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3939}
+{"id": "slava:9705", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 9705, "answer": "134", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3939}
+{"id": "slava:13221", "benchmark": "slava", "task": "указание последовательности", "index": 13221, "answer": "213", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3939}
+{"id": "slava:9955", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9955, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3939}
+{"id": "slava:13977", "benchmark": "slava", "task": "установление соответствия", "index": 13977, "answer": "5236", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3939}
+{"id": "slava:5001", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5001, "answer": "126", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3939}
+{"id": "slava:2483", "benchmark": "slava", "task": "указание последовательности", "index": 2483, "answer": "231", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3939}
+{"id": "slava:735", "benchmark": "slava", "task": "открытый ответ", "index": 735, "answer": "Усиление парникового эффекта и ускорение глобального потепления", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3939}
+{"id": "slava:10811", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10811, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3939}
+{"id": "slava:4807", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4807, "answer": "1345", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3939}
+{"id": "slava:8949", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8949, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42718}
+{"id": "slava:177", "benchmark": "slava", "task": "установление соответствия", "index": 177, "answer": "342", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42718}
+{"id": "slava:10393", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 10393, "answer": "36", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42718}
+{"id": "slava:927", "benchmark": "slava", "task": "выбор ответа (один)", "index": 927, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42718}
+{"id": "slava:3495", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3495, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42718}
+{"id": "slava:457", "benchmark": "slava", "task": "открытый ответ", "index": 457, "answer": "В Предуралье карстовые породы (известняки, гипсы) залегают близко к поверхности и широко распространены, поэтому карстовые формы развиты сильнее, чем в Зауралье, где преобладают магматические и метаморфические породы.", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42718}
+{"id": "slava:2319", "benchmark": "slava", "task": "указание последовательности", "index": 2319, "answer": "213", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42718}
+{"id": "slava:4019", "benchmark": "slava", "task": "открытый ответ", "index": 4019, "answer": "собственность", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42718}
+{"id": "slava:7019", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7019, "answer": "34", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42718}
+{"id": "slava:63", "benchmark": "slava", "task": "выбор ответа (один)", "index": 63, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42718}
+{"id": "slava:8011", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8011, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42718}
+{"id": "slava:10735", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10735, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42718}
+{"id": "slava:4963", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4963, "answer": "1235", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42718}
+{"id": "slava:379", "benchmark": "slava", "task": "выбор ответа (один)", "index": 379, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42718}
+{"id": "slava:12457", "benchmark": "slava", "task": "установление соответствия", "index": 12457, "answer": "216", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42718}
+{"id": "slava:4755", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4755, "answer": "245", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42718}
+{"id": "slava:11193", "benchmark": "slava", "task": "установление соответствия", "index": 11193, "answer": "216", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42718}
+{"id": "slava:12667", "benchmark": "slava", "task": "открытый ответ", "index": 12667, "answer": "Ельцин", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42718}
+{"id": "slava:6459", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6459, "answer": "245", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42718}
+{"id": "slava:10691", "benchmark": "slava", "task": "открытый ответ", "index": 10691, "answer": "отрезки", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42718}
+{"id": "slava:11195", "benchmark": "slava", "task": "установление соответствия", "index": 11195, "answer": "425", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42718}
+{"id": "slava:6601", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6601, "answer": "245", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42718}
+{"id": "slava:11265", "benchmark": "slava", "task": "установление соответствия", "index": 11265, "answer": "325", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42718}
+{"id": "slava:5711", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5711, "answer": "12", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42718}
+{"id": "slava:14159", "benchmark": "slava", "task": "указание последовательности", "index": 14159, "answer": "312", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42718}
+{"id": "slava:13899", "benchmark": "slava", "task": "указание последовательности", "index": 13899, "answer": "213", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11936}
+{"id": "slava:11941", "benchmark": "slava", "task": "открытый ответ", "index": 11941, "answer": "Троцкий", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11936}
+{"id": "slava:5703", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5703, "answer": "12", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11936}
+{"id": "slava:1111", "benchmark": "slava", "task": "открытый ответ", "index": 1111, "answer": "1. Отсутствие собственных крупных месторождений природного газа (импортирует ~97% потребляемого газа). 2. Высокая плотность населения и мощная промышленность обусловливают огромный спрос на энергоносители, а островное положение и морские границы позволяют удобно принимать СПГ танкерами.", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11936}
+{"id": "slava:12955", "benchmark": "slava", "task": "выбор ответа (один)", "index": 12955, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11936}
+{"id": "slava:9811", "benchmark": "slava", "task": "открытый ответ", "index": 9811, "answer": "1. Необходимость преодоления отставания России от передовых западных стран, в том числе в военной сфере, показавшего Крымская война. 2. Развитие капитализма и обострение противоречий между крепостничеством и новыми экономическими отношениями (рост крестьянских волнений). 3. Укрепление обороноспособности страны и буржуазных начал в государственной жизни под давлением либерального общественного мнения.", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11936}
+{"id": "slava:9373", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9373, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11936}
+{"id": "slava:5659", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5659, "answer": "134", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11936}
+{"id": "slava:3371", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3371, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11936}
+{"id": "slava:6741", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6741, "answer": "13", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11936}
+{"id": "slava:14135", "benchmark": "slava", "task": "установление соответствия", "index": 14135, "answer": "4153", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11936}
+{"id": "slava:8057", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8057, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11936}
+{"id": "slava:6187", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6187, "answer": "135", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11936}
+{"id": "slava:8621", "benchmark": "slava", "task": "открытый ответ", "index": 8621, "answer": "Эпоха дворцовых переворотов", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11936}
+{"id": "slava:8149", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8149, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11936}
+{"id": "slava:9425", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9425, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11936}
+{"id": "slava:3479", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3479, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11936}
+{"id": "slava:8035", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8035, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11936}
+{"id": "slava:11243", "benchmark": "slava", "task": "указание последовательности", "index": 11243, "answer": "213", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11936}
+{"id": "slava:14113", "benchmark": "slava", "task": "указание последовательности", "index": 14113, "answer": "132", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11936}
+{"id": "slava:11499", "benchmark": "slava", "task": "установление соответствия", "index": 11499, "answer": "3611", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11936}
+{"id": "slava:2375", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 2375, "answer": "23", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11936}
+{"id": "slava:8573", "benchmark": "slava", "task": "открытый ответ", "index": 8573, "answer": "Меншиков", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11936}
+{"id": "slava:6403", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6403, "answer": "235", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11936}
+{"id": "slava:5687", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5687, "answer": "24", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11936}
+{"id": "slava:6215", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6215, "answer": "1245", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11053}
+{"id": "slava:4829", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4829, "answer": "234", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11053}
+{"id": "slava:2119", "benchmark": "slava", "task": "открытый ответ", "index": 2119, "answer": "1) В декабре Солнце находится в зените над южным тропиком, а Джакарта расположена в Южном полушарии, поэтому высота Солнца над горизонтом в Джакарте меньше, чем в Рио-де-Жанейро, и солнечные лучи падают менее перпендикулярно. 2) В Джакарте в декабре — сезон дождей, большая облачность снижает суммарную солнечную радиацию.", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11053}
+{"id": "slava:7585", "benchmark": "slava", "task": "выбор ответа (один)", "index": 7585, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11053}
+{"id": "slava:10305", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10305, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11053}
+{"id": "slava:8449", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8449, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11053}
+{"id": "slava:11765", "benchmark": "slava", "task": "открытый ответ", "index": 11765, "answer": "Польша", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11053}
+{"id": "slava:10701", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10701, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11053}
+{"id": "slava:8929", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8929, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11053}
+{"id": "slava:1547", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1547, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11053}
+{"id": "slava:747", "benchmark": "slava", "task": "выбор ответа (один)", "index": 747, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11053}
+{"id": "slava:8983", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8983, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11053}
+{"id": "slava:9245", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9245, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11053}
+{"id": "slava:10895", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 10895, "answer": "26", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11053}
+{"id": "slava:8531", "benchmark": "slava", "task": "открытый ответ", "index": 8531, "answer": "Местничеством называлась система распределения должностей в государстве и в армии по знатности происхождения, а не по личным заслугам.", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11053}
+{"id": "slava:8677", "benchmark": "slava", "task": "открытый ответ", "index": 8677, "answer": "Положение 19 февраля 1861 года сохранило помещичье землевладение и выкупные платежи крестьян за землю.", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11053}
+{"id": "slava:3295", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3295, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11053}
+{"id": "slava:4489", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4489, "answer": "14", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11053}
+{"id": "slava:13579", "benchmark": "slava", "task": "открытый ответ", "index": 13579, "answer": "1) Восстание древлян было подавлено княгиней Ольгой. 2) Установлена система полюдья и уроков — реформа Ольги по упорядочению сбора дани. 3) Укрепилось единодержавное положение киевского князя и его дружины.", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11053}
+{"id": "slava:7655", "benchmark": "slava", "task": "выбор ответа (один)", "index": 7655, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11053}
+{"id": "slava:3501", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3501, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11053}
+{"id": "slava:10545", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10545, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11053}
+{"id": "slava:2025", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 2025, "answer": "124", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11053}
+{"id": "slava:7897", "benchmark": "slava", "task": "выбор ответа (один)", "index": 7897, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11053}
+{"id": "slava:13625", "benchmark": "slava", "task": "установление соответствия", "index": 13625, "answer": "5621", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 11053}
+{"id": "slava:10663", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 10663, "answer": "245", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 37382}
+{"id": "slava:1965", "benchmark": "slava", "task": "установление соответствия", "index": 1965, "answer": "152", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 37382}
+{"id": "slava:12351", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 12351, "answer": "36", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 37382}
+{"id": "slava:683", "benchmark": "slava", "task": "открытый ответ", "index": 683, "answer": "Казахстан", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 37382}
+{"id": "slava:9317", "benchmark": "slava", "task": "установление соответствия", "index": 9317, "answer": "3542", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 37382}
+{"id": "slava:13833", "benchmark": "slava", "task": "выбор ответа (один)", "index": 13833, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 37382}
+{"id": "slava:8481", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8481, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 37382}
+{"id": "slava:13831", "benchmark": "slava", "task": "выбор ответа (один)", "index": 13831, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 37382}
+{"id": "slava:1593", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1593, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 37382}
+{"id": "slava:12545", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 12545, "answer": "23", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 37382}
+{"id": "slava:11119", "benchmark": "slava", "task": "установление соответствия", "index": 11119, "answer": "4356", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 37382}
+{"id": "slava:993", "benchmark": "slava", "task": "указание последовательности", "index": 993, "answer": "132", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 37382}
+{"id": "slava:13137", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 13137, "answer": "25", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 37382}
+{"id": "slava:3299", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3299, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 37382}
+{"id": "slava:9251", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9251, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 37382}
+{"id": "slava:2337", "benchmark": "slava", "task": "открытый ответ", "index": 2337, "answer": "Таиланд", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 37382}
+{"id": "slava:12465", "benchmark": "slava", "task": "установление соответствия", "index": 12465, "answer": "512", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 37382}
+{"id": "slava:11199", "benchmark": "slava", "task": "открытый ответ", "index": 11199, "answer": "Милюков", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 37382}
+{"id": "slava:9961", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9961, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 37382}
+{"id": "slava:1247", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1247, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 37382}
+{"id": "slava:4639", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4639, "answer": "24", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 37382}
+{"id": "slava:10591", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10591, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 37382}
+{"id": "slava:10127", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10127, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 37382}
+{"id": "slava:12583", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 12583, "answer": "35", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 37382}
+{"id": "slava:11535", "benchmark": "slava", "task": "открытый ответ", "index": 11535, "answer": "Ленин", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 37382}
+{"id": "slava:12171", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 12171, "answer": "236", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4916}
+{"id": "slava:47", "benchmark": "slava", "task": "выбор ответа (один)", "index": 47, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4916}
+{"id": "slava:3877", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3877, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4916}
+{"id": "slava:11451", "benchmark": "slava", "task": "установление соответствия", "index": 11451, "answer": "5613", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4916}
+{"id": "slava:811", "benchmark": "slava", "task": "выбор ответа (один)", "index": 811, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4916}
+{"id": "slava:13373", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 13373, "answer": "156", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4916}
+{"id": "slava:2215", "benchmark": "slava", "task": "установление соответствия", "index": 2215, "answer": "136", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4916}
+{"id": "slava:7091", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7091, "answer": "124", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4916}
+{"id": "slava:5363", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5363, "answer": "234", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4916}
+{"id": "slava:7965", "benchmark": "slava", "task": "выбор ответа (один)", "index": 7965, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4916}
+{"id": "slava:12961", "benchmark": "slava", "task": "выбор ответа (один)", "index": 12961, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4916}
+{"id": "slava:8833", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8833, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4916}
+{"id": "slava:12619", "benchmark": "slava", "task": "указание последовательности", "index": 12619, "answer": "312", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4916}
+{"id": "slava:3585", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3585, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4916}
+{"id": "slava:12233", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 12233, "answer": "134", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4916}
+{"id": "slava:385", "benchmark": "slava", "task": "указание последовательности", "index": 385, "answer": "3241", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4916}
+{"id": "slava:12099", "benchmark": "slava", "task": "открытый ответ", "index": 12099, "answer": "Соседская община", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4916}
+{"id": "slava:4129", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4129, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4916}
+{"id": "slava:11659", "benchmark": "slava", "task": "установление соответствия", "index": 11659, "answer": "3152", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4916}
+{"id": "slava:13025", "benchmark": "slava", "task": "открытый ответ", "index": 13025, "answer": "временных", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4916}
+{"id": "slava:4387", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4387, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4916}
+{"id": "slava:1385", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1385, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4916}
+{"id": "slava:8719", "benchmark": "slava", "task": "указание последовательности", "index": 8719, "answer": "1234", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4916}
+{"id": "slava:5549", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5549, "answer": "346", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4916}
+{"id": "slava:4191", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4191, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4916}
+{"id": "slava:6775", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6775, "answer": "35", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2747}
+{"id": "slava:749", "benchmark": "slava", "task": "выбор ответа (один)", "index": 749, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2747}
+{"id": "slava:3015", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3015, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2747}
+{"id": "slava:12333", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 12333, "answer": "46", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2747}
+{"id": "slava:7781", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7781, "answer": "124", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2747}
+{"id": "slava:9253", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9253, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2747}
+{"id": "slava:9835", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9835, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2747}
+{"id": "slava:5257", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5257, "answer": "135", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2747}
+{"id": "slava:11141", "benchmark": "slava", "task": "открытый ответ", "index": 11141, "answer": "СЭВ", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2747}
+{"id": "slava:11511", "benchmark": "slava", "task": "открытый ответ", "index": 11511, "answer": "1) Железные изделия (плуг, топор и др.) — необходимо для обработки земли и хозяйственных нужд, так как собственное кузнечное ремесло было ограничено. 2) Соль — необходима для хранения и приготовления пищи, не производилась в достаточном количестве в хозяйстве.", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2747}
+{"id": "slava:8051", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8051, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2747}
+{"id": "slava:4401", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4401, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2747}
+{"id": "slava:8845", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8845, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2747}
+{"id": "slava:4219", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4219, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2747}
+{"id": "slava:13311", "benchmark": "slava", "task": "указание последовательности", "index": 13311, "answer": "312", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2747}
+{"id": "slava:4303", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4303, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2747}
+{"id": "slava:11057", "benchmark": "slava", "task": "выбор ответа (один)", "index": 11057, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2747}
+{"id": "slava:8699", "benchmark": "slava", "task": "открытый ответ", "index": 8699, "answer": "М. М. Ковалевский", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2747}
+{"id": "slava:1087", "benchmark": "slava", "task": "открытый ответ", "index": 1087, "answer": "1) Оползни. 2) Сели.", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2747}
+{"id": "slava:9113", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9113, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2747}
+{"id": "slava:2099", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 2099, "answer": "125", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2747}
+{"id": "slava:533", "benchmark": "slava", "task": "выбор ответа (один)", "index": 533, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2747}
+{"id": "slava:2611", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2611, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2747}
+{"id": "slava:11791", "benchmark": "slava", "task": "установление соответствия", "index": 11791, "answer": "5216", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2747}
+{"id": "slava:4395", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4395, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2747}
+{"id": "slava:1323", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1323, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2395}
+{"id": "slava:4265", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4265, "answer": "236", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2395}
+{"id": "slava:2417", "benchmark": "slava", "task": "указание последовательности", "index": 2417, "answer": "231", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2395}
+{"id": "slava:3559", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3559, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2395}
+{"id": "slava:473", "benchmark": "slava", "task": "выбор ответа (один)", "index": 473, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2395}
+{"id": "slava:5151", "benchmark": "slava", "task": "открытый ответ", "index": 5151, "answer": "Социальная роль", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2395}
+{"id": "slava:7861", "benchmark": "slava", "task": "выбор ответа (один)", "index": 7861, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2395}
+{"id": "slava:14151", "benchmark": "slava", "task": "установление соответствия", "index": 14151, "answer": "2341", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2395}
+{"id": "slava:11257", "benchmark": "slava", "task": "установление соответствия", "index": 11257, "answer": "4631", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2395}
+{"id": "slava:3563", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 3563, "answer": "1245", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2395}
+{"id": "slava:2183", "benchmark": "slava", "task": "открытый ответ", "index": 2183, "answer": "Австралия", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2395}
+{"id": "slava:1225", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1225, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2395}
+{"id": "slava:5937", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5937, "answer": "245", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2395}
+{"id": "slava:10521", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10521, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2395}
+{"id": "slava:10219", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10219, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2395}
+{"id": "slava:2993", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2993, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2395}
+{"id": "slava:5331", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5331, "answer": "145", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2395}
+{"id": "slava:4193", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4193, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2395}
+{"id": "slava:13915", "benchmark": "slava", "task": "указание последовательности", "index": 13915, "answer": "132", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2395}
+{"id": "slava:1213", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1213, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2395}
+{"id": "slava:5775", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5775, "answer": "2456", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2395}
+{"id": "slava:6877", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6877, "answer": "124", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2395}
+{"id": "slava:1107", "benchmark": "slava", "task": "указание последовательности", "index": 1107, "answer": "2143", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2395}
+{"id": "slava:4127", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4127, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2395}
+{"id": "slava:1373", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1373, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2395}
+{"id": "slava:10841", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 10841, "answer": "25", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3418}
+{"id": "slava:315", "benchmark": "slava", "task": "выбор ответа (один)", "index": 315, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3418}
+{"id": "slava:4291", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4291, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3418}
+{"id": "slava:6803", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6803, "answer": "236", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3418}
+{"id": "slava:12047", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 12047, "answer": "125", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3418}
+{"id": "slava:8171", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8171, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3418}
+{"id": "slava:605", "benchmark": "slava", "task": "выбор ответа (один)", "index": 605, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3418}
+{"id": "slava:13749", "benchmark": "slava", "task": "указание последовательности", "index": 13749, "answer": "213", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3418}
+{"id": "slava:5833", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5833, "answer": "245", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3418}
+{"id": "slava:5955", "benchmark": "slava", "task": "открытый ответ", "index": 5955, "answer": "Духовная сфера", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3418}
+{"id": "slava:1659", "benchmark": "slava", "task": "открытый ответ", "index": 1659, "answer": "Ростовская область", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3418}
+{"id": "slava:2677", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2677, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3418}
+{"id": "slava:4923", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4923, "answer": "134", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3418}
+{"id": "slava:5339", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5339, "answer": "34", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3418}
+{"id": "slava:13901", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 13901, "answer": "125", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3418}
+{"id": "slava:7717", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7717, "answer": "146", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3418}
+{"id": "slava:6095", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6095, "answer": "45", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3418}
+{"id": "slava:14085", "benchmark": "slava", "task": "открытый ответ", "index": 14085, "answer": "Судетская", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3418}
+{"id": "slava:11773", "benchmark": "slava", "task": "установление соответствия", "index": 11773, "answer": "5261", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3418}
+{"id": "slava:3445", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3445, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3418}
+{"id": "slava:10979", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10979, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3418}
+{"id": "slava:13521", "benchmark": "slava", "task": "указание последовательности", "index": 13521, "answer": "321", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3418}
+{"id": "slava:2805", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2805, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3418}
+{"id": "slava:7885", "benchmark": "slava", "task": "выбор ответа (один)", "index": 7885, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3418}
+{"id": "slava:41", "benchmark": "slava", "task": "выбор ответа (один)", "index": 41, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3418}
+{"id": "slava:5999", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5999, "answer": "135", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 46222}
+{"id": "slava:11889", "benchmark": "slava", "task": "установление соответствия", "index": 11889, "answer": "4255", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 46222}
+{"id": "slava:9525", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9525, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 46222}
+{"id": "slava:8701", "benchmark": "slava", "task": "открытый ответ", "index": 8701, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 46222}
+{"id": "slava:10511", "benchmark": "slava", "task": "открытый ответ", "index": 10511, "answer": "коллегии", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 46222}
+{"id": "slava:1575", "benchmark": "slava", "task": "установление соответствия", "index": 1575, "answer": "413", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 46222}
+{"id": "slava:4089", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4089, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 46222}
+{"id": "slava:3931", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3931, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 46222}
+{"id": "slava:6517", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6517, "answer": "123", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 46222}
+{"id": "slava:2487", "benchmark": "slava", "task": "установление соответствия", "index": 2487, "answer": "146", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 46222}
+{"id": "slava:6375", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6375, "answer": "134", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 46222}
+{"id": "slava:3421", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3421, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 46222}
+{"id": "slava:8631", "benchmark": "slava", "task": "открытый ответ", "index": 8631, "answer": "Ломоносов", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 46222}
+{"id": "slava:4501", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4501, "answer": "234", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 46222}
+{"id": "slava:217", "benchmark": "slava", "task": "выбор ответа (один)", "index": 217, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 46222}
+{"id": "slava:12527", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 12527, "answer": "36", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 46222}
+{"id": "slava:8119", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8119, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 46222}
+{"id": "slava:3411", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3411, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 46222}
+{"id": "slava:8723", "benchmark": "slava", "task": "открытый ответ", "index": 8723, "answer": "республика", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 46222}
+{"id": "slava:9597", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9597, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 46222}
+{"id": "slava:6909", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6909, "answer": "1345", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 46222}
+{"id": "slava:9545", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 9545, "answer": "135", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 46222}
+{"id": "slava:12407", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 12407, "answer": "25", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 46222}
+{"id": "slava:4229", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4229, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 46222}
+{"id": "slava:4731", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4731, "answer": "145", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 46222}
+{"id": "slava:4411", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4411, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3476}
+{"id": "slava:9551", "benchmark": "slava", "task": "установление соответствия", "index": 9551, "answer": "3124", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3476}
+{"id": "slava:1393", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1393, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3476}
+{"id": "slava:10741", "benchmark": "slava", "task": "указание последовательности", "index": 10741, "answer": "41523", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3476}
+{"id": "slava:1697", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 1697, "answer": "136", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3476}
+{"id": "slava:7405", "benchmark": "slava", "task": "указание последовательности", "index": 7405, "answer": "213", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3476}
+{"id": "slava:1743", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 1743, "answer": "145", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3476}
+{"id": "slava:2177", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 2177, "answer": "135", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3476}
+{"id": "slava:5259", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5259, "answer": "123", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3476}
+{"id": "slava:9791", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9791, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3476}
+{"id": "slava:4341", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4341, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3476}
+{"id": "slava:10045", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 10045, "answer": "1256", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3476}
+{"id": "slava:5403", "benchmark": "slava", "task": "установление соответствия", "index": 5403, "answer": "428685", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3476}
+{"id": "slava:13211", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 13211, "answer": "24", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3476}
+{"id": "slava:3781", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3781, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3476}
+{"id": "slava:8697", "benchmark": "slava", "task": "открытый ответ", "index": 8697, "answer": "в Иваново", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3476}
+{"id": "slava:1217", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 1217, "answer": "246", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3476}
+{"id": "slava:11501", "benchmark": "slava", "task": "открытый ответ", "index": 11501, "answer": "1. Незавершённость демократических преобразований и игнорирование интересов различных слоёв общества со стороны большевиков. 2. Решения и действия большевиков, воспринимавшиеся как несправедливые и ущемляющие права (разгон Учредительного собрания, политика «военного коммунизма», продразвёрстка, национализация). 3. Иностранная военная интервенция стран Антанты, поддержавшая антибольшевистские силы.", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3476}
+{"id": "slava:10421", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10421, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3476}
+{"id": "slava:465", "benchmark": "slava", "task": "выбор ответа (один)", "index": 465, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3476}
+{"id": "slava:4519", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4519, "answer": "135", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3476}
+{"id": "slava:113", "benchmark": "slava", "task": "выбор ответа (один)", "index": 113, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3476}
+{"id": "slava:7293", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7293, "answer": "345", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3476}
+{"id": "slava:6577", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6577, "answer": "456", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3476}
+{"id": "slava:35", "benchmark": "slava", "task": "выбор ответа (один)", "index": 35, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3476}
+{"id": "slava:5015", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5015, "answer": "24", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1120}
+{"id": "slava:6605", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6605, "answer": "1234", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1120}
+{"id": "slava:4965", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4965, "answer": "236", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1120}
+{"id": "slava:8541", "benchmark": "slava", "task": "открытый ответ", "index": 8541, "answer": "ярлык", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1120}
+{"id": "slava:2301", "benchmark": "slava", "task": "указание последовательности", "index": 2301, "answer": "312", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1120}
+{"id": "slava:9971", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9971, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 34453}
+{"id": "slava:6425", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6425, "answer": "1235", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 34453}
+{"id": "slava:12859", "benchmark": "slava", "task": "указание последовательности", "index": 12859, "answer": "4123", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 34453}
+{"id": "slava:5697", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5697, "answer": "23", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 34453}
+{"id": "slava:12405", "benchmark": "slava", "task": "открытый ответ", "index": 12405, "answer": "1) Необходимость восстановления и модернизации российского флота после поражения в русско-японской войне 1904—1905 гг. 2) Обострение противоречий с ведущими морскими державами (Германией, Австро-Венгрией, Турцией) на Чёрном и Балтийском морях, требовавшее укрепления военно-морского потенциала. 3) Стремление обеспечить защиту черноморских и балтийских морских границ, а также поддержать статус великой мировой державы.", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 34453}
+{"id": "slava:3467", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3467, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1748}
+{"id": "slava:7113", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7113, "answer": "12", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1748}
+{"id": "slava:13971", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 13971, "answer": "24", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1748}
+{"id": "slava:13487", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 13487, "answer": "136", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1748}
+{"id": "slava:6355", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6355, "answer": "146", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1748}
+{"id": "slava:13835", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 13835, "answer": "124", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1092}
+{"id": "slava:3745", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3745, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1092}
+{"id": "slava:3433", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3433, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1092}
+{"id": "slava:6211", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6211, "answer": "234", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1092}
+{"id": "slava:13825", "benchmark": "slava", "task": "установление соответствия", "index": 13825, "answer": "4231", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1092}
+{"id": "slava:12007", "benchmark": "slava", "task": "открытый ответ", "index": 12007, "answer": "Брежнев", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 980}
+{"id": "slava:9079", "benchmark": "slava", "task": "указание последовательности", "index": 9079, "answer": "35214", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 980}
+{"id": "slava:5019", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5019, "answer": "12", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 980}
+{"id": "slava:9221", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9221, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 980}
+{"id": "slava:13277", "benchmark": "slava", "task": "выбор ответа (один)", "index": 13277, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 980}
+{"id": "slava:8343", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8343, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 794}
+{"id": "slava:11369", "benchmark": "slava", "task": "открытый ответ", "index": 11369, "answer": "ускорение", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 794}
+{"id": "slava:6827", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6827, "answer": "1356", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 794}
+{"id": "slava:6723", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6723, "answer": "1245", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 794}
+{"id": "slava:4299", "benchmark": "slava", "task": "открытый ответ", "index": 4299, "answer": "избирательная система", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 794}
+{"id": "slava:11961", "benchmark": "slava", "task": "установление соответствия", "index": 11961, "answer": "1512", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1400}
+{"id": "slava:11989", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11989, "answer": "356", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1400}
+{"id": "slava:12225", "benchmark": "slava", "task": "указание последовательности", "index": 12225, "answer": "213", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1400}
+{"id": "slava:9593", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9593, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1400}
+{"id": "slava:6887", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6887, "answer": "1345", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1400}
+{"id": "slava:13995", "benchmark": "slava", "task": "установление соответствия", "index": 13995, "answer": "2143", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1425}
+{"id": "slava:9019", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9019, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1425}
+{"id": "slava:4123", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4123, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1425}
+{"id": "slava:167", "benchmark": "slava", "task": "выбор ответа (один)", "index": 167, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1425}
+{"id": "slava:8663", "benchmark": "slava", "task": "открытый ответ", "index": 8663, "answer": "Александр III", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1425}
+{"id": "slava:10909", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10909, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 53278}
+{"id": "slava:2455", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 2455, "answer": "245", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 53278}
+{"id": "slava:5357", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5357, "answer": "234", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 53278}
+{"id": "slava:2095", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 2095, "answer": "234", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 53278}
+{"id": "slava:3887", "benchmark": "slava", "task": "открытый ответ", "index": 3887, "answer": "налоги", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 53278}
+{"id": "slava:3013", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3013, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1417}
+{"id": "slava:5613", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5613, "answer": "12", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1417}
+{"id": "slava:6521", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6521, "answer": "123", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1417}
+{"id": "slava:3705", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3705, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1417}
+{"id": "slava:11275", "benchmark": "slava", "task": "указание последовательности", "index": 11275, "answer": "132", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1417}
+{"id": "slava:1199", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1199, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2322}
+{"id": "slava:247", "benchmark": "slava", "task": "выбор ответа (один)", "index": 247, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2322}
+{"id": "slava:2927", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2927, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2322}
+{"id": "slava:511", "benchmark": "slava", "task": "выбор ответа (один)", "index": 511, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2322}
+{"id": "slava:13907", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 13907, "answer": "246", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2322}
+{"id": "slava:8991", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8991, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1976}
+{"id": "slava:3425", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3425, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1976}
+{"id": "slava:10951", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10951, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1976}
+{"id": "slava:8419", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8419, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1976}
+{"id": "slava:12829", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 12829, "answer": "56", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1976}
+{"id": "slava:10683", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10683, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 828}
+{"id": "slava:135", "benchmark": "slava", "task": "выбор ответа (один)", "index": 135, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 828}
+{"id": "slava:431", "benchmark": "slava", "task": "выбор ответа (один)", "index": 431, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 828}
+{"id": "slava:2315", "benchmark": "slava", "task": "указание последовательности", "index": 2315, "answer": "213", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 828}
+{"id": "slava:5169", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5169, "answer": "123", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 828}
+{"id": "slava:7591", "benchmark": "slava", "task": "выбор ответа (один)", "index": 7591, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1816}
+{"id": "slava:4793", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4793, "answer": "345", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1816}
+{"id": "slava:2439", "benchmark": "slava", "task": "открытый ответ", "index": 2439, "answer": "Поволжский", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1816}
+{"id": "slava:3355", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3355, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1816}
+{"id": "slava:1983", "benchmark": "slava", "task": "установление соответствия", "index": 1983, "answer": "362", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1816}
+{"id": "slava:10085", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10085, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 50548}
+{"id": "slava:13677", "benchmark": "slava", "task": "установление соответствия", "index": 13677, "answer": "3425", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 50548}
+{"id": "slava:13913", "benchmark": "slava", "task": "установление соответствия", "index": 13913, "answer": "4321", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 50548}
+{"id": "slava:6997", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6997, "answer": "145", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 50548}
+{"id": "slava:1617", "benchmark": "slava", "task": "установление соответствия", "index": 1617, "answer": "412", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 50548}
+{"id": "slava:4999", "benchmark": "slava", "task": "установление соответствия", "index": 4999, "answer": "347645", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1622}
+{"id": "slava:4513", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4513, "answer": "34", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1622}
+{"id": "slava:12637", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 12637, "answer": "126", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1622}
+{"id": "slava:1623", "benchmark": "slava", "task": "установление соответствия", "index": 1623, "answer": "251", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1622}
+{"id": "slava:7463", "benchmark": "slava", "task": "указание последовательности", "index": 7463, "answer": "321", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1622}
+{"id": "slava:3889", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3889, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1355}
+{"id": "slava:10995", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10995, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1355}
+{"id": "slava:9377", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9377, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1355}
+{"id": "slava:937", "benchmark": "slava", "task": "выбор ответа (один)", "index": 937, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1355}
+{"id": "slava:3527", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3527, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1355}
+{"id": "slava:833", "benchmark": "slava", "task": "выбор ответа (один)", "index": 833, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1674}
+{"id": "slava:13033", "benchmark": "slava", "task": "выбор ответа (один)", "index": 13033, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1674}
+{"id": "slava:3379", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3379, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1674}
+{"id": "slava:6315", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6315, "answer": "246", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1674}
+{"id": "slava:1175", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1175, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1674}
+{"id": "slava:3169", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3169, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1219}
+{"id": "slava:1475", "benchmark": "slava", "task": "установление соответствия", "index": 1475, "answer": "312", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1219}
+{"id": "slava:8379", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8379, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1219}
+{"id": "slava:10469", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 10469, "answer": "45", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1219}
+{"id": "slava:1083", "benchmark": "slava", "task": "указание последовательности", "index": 1083, "answer": "1432", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1219}
+{"id": "slava:13879", "benchmark": "slava", "task": "открытый ответ", "index": 13879, "answer": "Яковлев", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2160}
+{"id": "slava:3221", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3221, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2160}
+{"id": "slava:7565", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7565, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2160}
+{"id": "slava:411", "benchmark": "slava", "task": "установление соответствия", "index": 411, "answer": "234", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2160}
+{"id": "slava:1197", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1197, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2160}
+{"id": "slava:5333", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5333, "answer": "256", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 52062}
+{"id": "slava:10437", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10437, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 52062}
+{"id": "slava:5421", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5421, "answer": "135", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 52062}
+{"id": "slava:1683", "benchmark": "slava", "task": "установление соответствия", "index": 1683, "answer": "236", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 52062}
+{"id": "slava:7645", "benchmark": "slava", "task": "открытый ответ", "index": 7645, "answer": "Норманны (варяги, скандинавы)", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 52062}
+{"id": "slava:7539", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7539, "answer": "35", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1796}
+{"id": "slava:6991", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6991, "answer": "46", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1796}
+{"id": "slava:8097", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8097, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1796}
+{"id": "slava:9531", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9531, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1796}
+{"id": "slava:1713", "benchmark": "slava", "task": "указание последовательности", "index": 1713, "answer": "312", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1796}
+{"id": "slava:12715", "benchmark": "slava", "task": "открытый ответ", "index": 12715, "answer": "Коллаборационизм", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2515}
+{"id": "slava:13419", "benchmark": "slava", "task": "указание последовательности", "index": 13419, "answer": "231", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2515}
+{"id": "slava:2145", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 2145, "answer": "2345", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2515}
+{"id": "slava:12779", "benchmark": "slava", "task": "установление соответствия", "index": 12779, "answer": "4261", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2515}
+{"id": "slava:299", "benchmark": "slava", "task": "выбор ответа (один)", "index": 299, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2515}
+{"id": "slava:2879", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2879, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1429}
+{"id": "slava:3351", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3351, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1429}
+{"id": "slava:7063", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7063, "answer": "234", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1429}
+{"id": "slava:1483", "benchmark": "slava", "task": "указание последовательности", "index": 1483, "answer": "213", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1429}
+{"id": "slava:3105", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3105, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1429}
+{"id": "slava:13937", "benchmark": "slava", "task": "установление соответствия", "index": 13937, "answer": "3621", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1390}
+{"id": "slava:2701", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 2701, "answer": "23", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1390}
+{"id": "slava:2109", "benchmark": "slava", "task": "установление соответствия", "index": 2109, "answer": "315", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1390}
+{"id": "slava:14027", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 14027, "answer": "145", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1390}
+{"id": "slava:2453", "benchmark": "slava", "task": "указание последовательности", "index": 2453, "answer": "231", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1390}
+{"id": "slava:3065", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3065, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2452}
+{"id": "slava:119", "benchmark": "slava", "task": "выбор ответа (один)", "index": 119, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2452}
+{"id": "slava:3891", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3891, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2452}
+{"id": "slava:11333", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11333, "answer": "1256", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2452}
+{"id": "slava:5945", "benchmark": "slava", "task": "открытый ответ", "index": 5945, "answer": "правонарушение", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2452}
+{"id": "slava:8515", "benchmark": "slava", "task": "открытый ответ", "index": 8515, "answer": "Твери", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 50826}
+{"id": "slava:657", "benchmark": "slava", "task": "установление соответствия", "index": 657, "answer": "341", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 50826}
+{"id": "slava:123", "benchmark": "slava", "task": "выбор ответа (один)", "index": 123, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 50826}
+{"id": "slava:8229", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8229, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 50826}
+{"id": "slava:2087", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 2087, "answer": "235", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 50826}
+{"id": "slava:7665", "benchmark": "slava", "task": "выбор ответа (один)", "index": 7665, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1735}
+{"id": "slava:6817", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6817, "answer": "16", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1735}
+{"id": "slava:12355", "benchmark": "slava", "task": "выбор ответа (один)", "index": 12355, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1735}
+{"id": "slava:9707", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 9707, "answer": "236", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1735}
+{"id": "slava:8761", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8761, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1735}
+{"id": "slava:7317", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7317, "answer": "25", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 948}
+{"id": "slava:3305", "benchmark": "slava", "task": "открытый ответ", "index": 3305, "answer": "традиционное общество", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 948}
+{"id": "slava:7225", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7225, "answer": "246", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 948}
+{"id": "slava:4003", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4003, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 948}
+{"id": "slava:9173", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 9173, "answer": "124", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 948}
+{"id": "slava:9755", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9755, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1690}
+{"id": "slava:12555", "benchmark": "slava", "task": "выбор ответа (один)", "index": 12555, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1690}
+{"id": "slava:4653", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4653, "answer": "245", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1690}
+{"id": "slava:10819", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10819, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1690}
+{"id": "slava:2039", "benchmark": "slava", "task": "установление соответствия", "index": 2039, "answer": "523", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1690}
+{"id": "slava:11205", "benchmark": "slava", "task": "открытый ответ", "index": 11205, "answer": "Молотов", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2541}
+{"id": "slava:7379", "benchmark": "slava", "task": "выбор ответа (один)", "index": 7379, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2541}
+{"id": "slava:8293", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8293, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2541}
+{"id": "slava:8821", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 8821, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2541}
+{"id": "slava:5361", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5361, "answer": "156", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2541}
+{"id": "slava:13397", "benchmark": "slava", "task": "открытый ответ", "index": 13397, "answer": "ликбез", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1758}
+{"id": "slava:2189", "benchmark": "slava", "task": "открытый ответ", "index": 2189, "answer": "Германия", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1758}
+{"id": "slava:1989", "benchmark": "slava", "task": "установление соответствия", "index": 1989, "answer": "532", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1758}
+{"id": "slava:9617", "benchmark": "slava", "task": "открытый ответ", "index": 9617, "answer": "хрущёвского десятилетия", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1758}
+{"id": "slava:11605", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11605, "answer": "16", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1758}
+{"id": "slava:1533", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1533, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2127}
+{"id": "slava:33", "benchmark": "slava", "task": "выбор ответа (один)", "index": 33, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2127}
+{"id": "slava:12501", "benchmark": "slava", "task": "установление соответствия", "index": 12501, "answer": "642", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2127}
+{"id": "slava:12745", "benchmark": "slava", "task": "открытый ответ", "index": 12745, "answer": "При Иване III (Иване III Васильевиче) в 1475–1479 годах по проекту Аристотеля Фиораванти.", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2127}
+{"id": "slava:7199", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7199, "answer": "1234", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2127}
+{"id": "slava:2751", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2751, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1401}
+{"id": "slava:6179", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6179, "answer": "16", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1401}
+{"id": "slava:7077", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7077, "answer": "356", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1401}
+{"id": "slava:925", "benchmark": "slava", "task": "выбор ответа (один)", "index": 925, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1401}
+{"id": "slava:2133", "benchmark": "slava", "task": "открытый ответ", "index": 2133, "answer": "Тепловые электростанции (ТЭС)", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1401}
+{"id": "slava:7985", "benchmark": "slava", "task": "выбор ответа (один)", "index": 7985, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3471}
+{"id": "slava:13231", "benchmark": "slava", "task": "открытый ответ", "index": 13231, "answer": "1) Дружина участвовала в походах князя и составляла основу его военной силы (например, походы Олега и Святослава). 2) Князь советовался с дружиной по важнейшим государственным вопросам («дума» с дружиной). 3) Дружина обеспечивала сбор дани (полюдья) и поддержание порядка на подвластных территориях.", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3471}
+{"id": "slava:10159", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10159, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3471}
+{"id": "slava:8825", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8825, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3471}
+{"id": "slava:13657", "benchmark": "slava", "task": "указание последовательности", "index": 13657, "answer": "231", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3471}
+{"id": "slava:1085", "benchmark": "slava", "task": "открытый ответ", "index": 1085, "answer": "Греция", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1520}
+{"id": "slava:7187", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7187, "answer": "234", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1520}
+{"id": "slava:11567", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11567, "answer": "256", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1520}
+{"id": "slava:2267", "benchmark": "slava", "task": "указание последовательности", "index": 2267, "answer": "132", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1520}
+{"id": "slava:2595", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2595, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1520}
+{"id": "slava:2859", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2859, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42400}
+{"id": "slava:7581", "benchmark": "slava", "task": "выбор ответа (один)", "index": 7581, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42400}
+{"id": "slava:9205", "benchmark": "slava", "task": "установление соответствия", "index": 9205, "answer": "3125", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42400}
+{"id": "slava:7975", "benchmark": "slava", "task": "выбор ответа (один)", "index": 7975, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42400}
+{"id": "slava:4391", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4391, "answer": "145", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 42400}
+{"id": "slava:11423", "benchmark": "slava", "task": "установление соответствия", "index": 11423, "answer": "5234", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2611}
+{"id": "slava:13455", "benchmark": "slava", "task": "указание последовательности", "index": 13455, "answer": "213", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2611}
+{"id": "slava:12777", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 12777, "answer": "46", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2611}
+{"id": "slava:11231", "benchmark": "slava", "task": "указание последовательности", "index": 11231, "answer": "132", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2611}
+{"id": "slava:8979", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8979, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2611}
+{"id": "slava:8769", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8769, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1737}
+{"id": "slava:12267", "benchmark": "slava", "task": "указание последовательности", "index": 12267, "answer": "231", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1737}
+{"id": "slava:1799", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 1799, "answer": "35", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1737}
+{"id": "slava:10957", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10957, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1737}
+{"id": "slava:7529", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7529, "answer": "234", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1737}
+{"id": "slava:3031", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3031, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3107}
+{"id": "slava:8897", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8897, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3107}
+{"id": "slava:5527", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5527, "answer": "1234", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3107}
+{"id": "slava:13621", "benchmark": "slava", "task": "установление соответствия", "index": 13621, "answer": "5142", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3107}
+{"id": "slava:6177", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6177, "answer": "145", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3107}
+{"id": "slava:1701", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 1701, "answer": "34", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4909}
+{"id": "slava:6485", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6485, "answer": "235", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4909}
+{"id": "slava:12165", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 12165, "answer": "124", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4909}
+{"id": "slava:8911", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8911, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4909}
+{"id": "slava:2715", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2715, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 4909}
+{"id": "slava:9307", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9307, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 49130}
+{"id": "slava:4691", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4691, "answer": "135", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 49130}
+{"id": "slava:1599", "benchmark": "slava", "task": "открытый ответ", "index": 1599, "answer": "Канада", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 49130}
+{"id": "slava:2589", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2589, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 49130}
+{"id": "slava:14179", "benchmark": "slava", "task": "указание последовательности", "index": 14179, "answer": "213", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 49130}
+{"id": "slava:817", "benchmark": "slava", "task": "выбор ответа (один)", "index": 817, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3464}
+{"id": "slava:1911", "benchmark": "slava", "task": "указание последовательности", "index": 1911, "answer": "231", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3464}
+{"id": "slava:1035", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1035, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3464}
+{"id": "slava:11699", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11699, "answer": "356", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3464}
+{"id": "slava:2117", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 2117, "answer": "456", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3464}
+{"id": "slava:7983", "benchmark": "slava", "task": "выбор ответа (один)", "index": 7983, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3326}
+{"id": "slava:12245", "benchmark": "slava", "task": "установление соответствия", "index": 12245, "answer": "4253", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3326}
+{"id": "slava:3601", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3601, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3326}
+{"id": "slava:12365", "benchmark": "slava", "task": "выбор ответа (один)", "index": 12365, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3326}
+{"id": "slava:251", "benchmark": "slava", "task": "выбор ответа (один)", "index": 251, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3326}
+{"id": "slava:611", "benchmark": "slava", "task": "установление соответствия", "index": 611, "answer": "134", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1182}
+{"id": "slava:4429", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4429, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1182}
+{"id": "slava:10027", "benchmark": "slava", "task": "открытый ответ", "index": 10027, "answer": "Интернационалом", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1182}
+{"id": "slava:9473", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9473, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1182}
+{"id": "slava:8355", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8355, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1182}
+{"id": "slava:13251", "benchmark": "slava", "task": "выбор ответа (один)", "index": 13251, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1266}
+{"id": "slava:149", "benchmark": "slava", "task": "выбор ответа (один)", "index": 149, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1266}
+{"id": "slava:13763", "benchmark": "slava", "task": "указание последовательности", "index": 13763, "answer": "321", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1266}
+{"id": "slava:5735", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5735, "answer": "123", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1266}
+{"id": "slava:11319", "benchmark": "slava", "task": "установление соответствия", "index": 11319, "answer": "3621", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1266}
+{"id": "slava:8961", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8961, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 51705}
+{"id": "slava:6545", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6545, "answer": "26", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 51705}
+{"id": "slava:11741", "benchmark": "slava", "task": "указание последовательности", "index": 11741, "answer": "213", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 51705}
+{"id": "slava:763", "benchmark": "slava", "task": "выбор ответа (один)", "index": 763, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 51705}
+{"id": "slava:8273", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8273, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 51705}
+{"id": "slava:9099", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9099, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2561}
+{"id": "slava:9615", "benchmark": "slava", "task": "установление соответствия", "index": 9615, "answer": "2314", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2561}
+{"id": "slava:4871", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4871, "answer": "15", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2561}
+{"id": "slava:13997", "benchmark": "slava", "task": "установление соответствия", "index": 13997, "answer": "1435", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2561}
+{"id": "slava:8849", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8849, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 2561}
+{"id": "slava:12737", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 12737, "answer": "346", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1657}
+{"id": "slava:14197", "benchmark": "slava", "task": "указание последовательности", "index": 14197, "answer": "41325", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1657}
+{"id": "slava:10337", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10337, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1657}
+{"id": "slava:83", "benchmark": "slava", "task": "выбор ответа (один)", "index": 83, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1657}
+{"id": "slava:13819", "benchmark": "slava", "task": "открытый ответ", "index": 13819, "answer": "Избранная рада", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1657}
+{"id": "slava:6333", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6333, "answer": "134", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 946}
+{"id": "slava:1921", "benchmark": "slava", "task": "установление соответствия", "index": 1921, "answer": "325", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 946}
+{"id": "slava:1621", "benchmark": "slava", "task": "открытый ответ", "index": 1621, "answer": "Республика Дагестан", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 946}
+{"id": "slava:12899", "benchmark": "slava", "task": "выбор ответа (один)", "index": 12899, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 946}
+{"id": "slava:13069", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 13069, "answer": "45", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 946}
+{"id": "slava:13801", "benchmark": "slava", "task": "установление соответствия", "index": 13801, "answer": "1536", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 939}
+{"id": "slava:8047", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8047, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 939}
+{"id": "slava:2913", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2913, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 939}
+{"id": "slava:429", "benchmark": "slava", "task": "выбор ответа (один)", "index": 429, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 939}
+{"id": "slava:8999", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 8999, "answer": "134", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 939}
+{"id": "slava:10767", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 10767, "answer": "245", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 978}
+{"id": "slava:9319", "benchmark": "slava", "task": "установление соответствия", "index": 9319, "answer": "4513", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 978}
+{"id": "slava:13949", "benchmark": "slava", "task": "указание последовательности", "index": 13949, "answer": "312", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 978}
+{"id": "slava:3369", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3369, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 978}
+{"id": "slava:2619", "benchmark": "slava", "task": "установление соответствия", "index": 2619, "answer": "417268", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 978}
+{"id": "slava:4949", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4949, "answer": "345", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 36520}
+{"id": "slava:9371", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9371, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 36520}
+{"id": "slava:293", "benchmark": "slava", "task": "выбор ответа (один)", "index": 293, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 36520}
+{"id": "slava:4671", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4671, "answer": "234", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 36520}
+{"id": "slava:11417", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11417, "answer": "46", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 36520}
+{"id": "slava:637", "benchmark": "slava", "task": "открытый ответ", "index": 637, "answer": "1) На Северном тропике в июне Солнце находится в зените, поэтому угол падения солнечных лучей прямой и радиация максимальна. 2) Продолжительность светового дня на Северном тропике в июне больше, чем на Южном, где в это время зима.", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 36520}
+{"id": "slava:9119", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9119, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 36520}
+{"id": "slava:653", "benchmark": "slava", "task": "выбор ответа (один)", "index": 653, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 36520}
+{"id": "slava:6759", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6759, "answer": "234", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 36520}
+{"id": "slava:5199", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5199, "answer": "234", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 36520}
+{"id": "slava:5195", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5195, "answer": "345", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 965}
+{"id": "slava:479", "benchmark": "slava", "task": "выбор ответа (один)", "index": 479, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 965}
+{"id": "slava:2405", "benchmark": "slava", "task": "открытый ответ", "index": 2405, "answer": "Пиренейский", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 965}
+{"id": "slava:9995", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9995, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 965}
+{"id": "slava:103", "benchmark": "slava", "task": "выбор ответа (один)", "index": 103, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 965}
+{"id": "slava:8813", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8813, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 965}
+{"id": "slava:9997", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9997, "answer": "4", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 965}
+{"id": "slava:1157", "benchmark": "slava", "task": "указание последовательности", "index": 1157, "answer": "312", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 965}
+{"id": "slava:6025", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6025, "answer": "234", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 965}
+{"id": "slava:1383", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1383, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 965}
+{"id": "slava:9103", "benchmark": "slava", "task": "установление соответствия", "index": 9103, "answer": "5234", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1785}
+{"id": "slava:6387", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6387, "answer": "15", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1785}
+{"id": "slava:5553", "benchmark": "slava", "task": "открытый ответ", "index": 5553, "answer": "Смертная казнь", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1785}
+{"id": "slava:14119", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 14119, "answer": "145", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1785}
+{"id": "slava:9807", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 9807, "answer": "235", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1785}
+{"id": "slava:647", "benchmark": "slava", "task": "выбор ответа (один)", "index": 647, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1785}
+{"id": "slava:4747", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4747, "answer": "256", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1785}
+{"id": "slava:7283", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7283, "answer": "34", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1785}
+{"id": "slava:11811", "benchmark": "slava", "task": "установление соответствия", "index": 11811, "answer": "5421", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1785}
+{"id": "slava:1457", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1457, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1785}
+{"id": "slava:10769", "benchmark": "slava", "task": "открытый ответ", "index": 10769, "answer": "Дорога жизни", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3130}
+{"id": "slava:9909", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9909, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3130}
+{"id": "slava:14069", "benchmark": "slava", "task": "установление соответствия", "index": 14069, "answer": "6124", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3130}
+{"id": "slava:12603", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 12603, "answer": "235", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3130}
+{"id": "slava:11181", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11181, "answer": "2356", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3130}
+{"id": "slava:2919", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2919, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3130}
+{"id": "slava:5453", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5453, "answer": "135", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3130}
+{"id": "slava:11655", "benchmark": "slava", "task": "указание последовательности", "index": 11655, "answer": "213", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3130}
+{"id": "slava:543", "benchmark": "slava", "task": "выбор ответа (один)", "index": 543, "answer": "1", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3130}
+{"id": "slava:1795", "benchmark": "slava", "task": "указание последовательности", "index": 1795, "answer": "213", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 3130}
+{"id": "slava:10175", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10175, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1325}
+{"id": "slava:8081", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8081, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1325}
+{"id": "slava:2351", "benchmark": "slava", "task": "открытый ответ", "index": 2351, "answer": "Красноярский край", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1325}
+{"id": "slava:4459", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4459, "answer": "135", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1325}
+{"id": "slava:3447", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3447, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1325}
+{"id": "slava:5407", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5407, "answer": "345", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1325}
+{"id": "slava:13837", "benchmark": "slava", "task": "указание последовательности", "index": 13837, "answer": "213", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1325}
+{"id": "slava:741", "benchmark": "slava", "task": "выбор ответа (один)", "index": 741, "answer": "2", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1325}
+{"id": "slava:15", "benchmark": "slava", "task": "выбор ответа (один)", "index": 15, "answer": "3", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1325}
+{"id": "slava:13123", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 13123, "answer": "256", "model": "minimax/MiniMax-M3", "backend": "omniroute", "batch_latency_ms": 1325}

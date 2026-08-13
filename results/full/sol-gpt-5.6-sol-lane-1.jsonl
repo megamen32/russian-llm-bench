@@ -1,0 +1,525 @@
+{"id": "slava:7195", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7195, "answer": "126", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25144}
+{"id": "slava:311", "benchmark": "slava", "task": "открытый ответ", "index": 311, "answer": "Алжир", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25144}
+{"id": "slava:2485", "benchmark": "slava", "task": "открытый ответ", "index": 2485, "answer": "Ростовская область", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25144}
+{"id": "slava:1935", "benchmark": "slava", "task": "установление соответствия", "index": 1935, "answer": "142", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25144}
+{"id": "slava:5837", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5837, "answer": "235", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25144}
+{"id": "slava:12443", "benchmark": "slava", "task": "выбор ответа (один)", "index": 12443, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25144}
+{"id": "slava:3043", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 3043, "answer": "235", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25144}
+{"id": "slava:4643", "benchmark": "slava", "task": "открытый ответ", "index": 4643, "answer": "ценная бумага", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25144}
+{"id": "slava:5689", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5689, "answer": "135", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25144}
+{"id": "slava:5309", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5309, "answer": "35", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25144}
+{"id": "slava:13611", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 13611, "answer": "246", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25144}
+{"id": "slava:8251", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8251, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25144}
+{"id": "slava:13239", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 13239, "answer": "145", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25144}
+{"id": "slava:13145", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 13145, "answer": "145", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25144}
+{"id": "slava:5725", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5725, "answer": "23", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25144}
+{"id": "slava:1453", "benchmark": "slava", "task": "указание последовательности", "index": 1453, "answer": "231", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25144}
+{"id": "slava:3941", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3941, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25144}
+{"id": "slava:169", "benchmark": "slava", "task": "выбор ответа (один)", "index": 169, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25144}
+{"id": "slava:353", "benchmark": "slava", "task": "выбор ответа (один)", "index": 353, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25144}
+{"id": "slava:3963", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3963, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25144}
+{"id": "slava:5425", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5425, "answer": "123", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25144}
+{"id": "slava:4329", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4329, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25144}
+{"id": "slava:11553", "benchmark": "slava", "task": "установление соответствия", "index": 11553, "answer": "5123", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25144}
+{"id": "slava:8537", "benchmark": "slava", "task": "открытый ответ", "index": 8537, "answer": "1240–1480 гг.", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25144}
+{"id": "slava:1611", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1611, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25144}
+{"id": "slava:4919", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4919, "answer": "135", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 29129}
+{"id": "slava:7075", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7075, "answer": "1245", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 29129}
+{"id": "slava:10313", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10313, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 29129}
+{"id": "slava:2227", "benchmark": "slava", "task": "установление соответствия", "index": 2227, "answer": "143", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 29129}
+{"id": "slava:2157", "benchmark": "slava", "task": "открытый ответ", "index": 2157, "answer": "Япония", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 29129}
+{"id": "slava:8791", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 8791, "answer": "123", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 29129}
+{"id": "slava:5145", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5145, "answer": "124", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 29129}
+{"id": "slava:2271", "benchmark": "slava", "task": "указание последовательности", "index": 2271, "answer": "231", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 29129}
+{"id": "slava:6489", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6489, "answer": "1345", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 29129}
+{"id": "slava:5595", "benchmark": "slava", "task": "открытый ответ", "index": 5595, "answer": "Государственный суверенитет", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 29129}
+{"id": "slava:10501", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10501, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 29129}
+{"id": "slava:11035", "benchmark": "slava", "task": "выбор ответа (один)", "index": 11035, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 29129}
+{"id": "slava:12675", "benchmark": "slava", "task": "установление соответствия", "index": 12675, "answer": "341", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 29129}
+{"id": "slava:11361", "benchmark": "slava", "task": "установление соответствия", "index": 11361, "answer": "6254", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 29129}
+{"id": "slava:11929", "benchmark": "slava", "task": "открытый ответ", "index": 11929, "answer": "Военный коммунизм", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 29129}
+{"id": "slava:5623", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5623, "answer": "123", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 29129}
+{"id": "slava:4075", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4075, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 29129}
+{"id": "slava:4863", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4863, "answer": "145", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 29129}
+{"id": "slava:3753", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3753, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 29129}
+{"id": "slava:3233", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3233, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 29129}
+{"id": "slava:3441", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3441, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 29129}
+{"id": "slava:903", "benchmark": "slava", "task": "выбор ответа (один)", "index": 903, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 29129}
+{"id": "slava:11095", "benchmark": "slava", "task": "выбор ответа (один)", "index": 11095, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 29129}
+{"id": "slava:10285", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10285, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 29129}
+{"id": "slava:4209", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4209, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 29129}
+{"id": "slava:1489", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1489, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 19019}
+{"id": "slava:8975", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8975, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 19019}
+{"id": "slava:1783", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 1783, "answer": "236", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 19019}
+{"id": "slava:8373", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8373, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 19019}
+{"id": "slava:3429", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3429, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 19019}
+{"id": "slava:6005", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6005, "answer": "146", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 19019}
+{"id": "slava:9059", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9059, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 19019}
+{"id": "slava:13291", "benchmark": "slava", "task": "выбор ответа (один)", "index": 13291, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 19019}
+{"id": "slava:11891", "benchmark": "slava", "task": "установление соответствия", "index": 11891, "answer": "3165", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 19019}
+{"id": "slava:6847", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6847, "answer": "124", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 19019}
+{"id": "slava:1433", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1433, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 19019}
+{"id": "slava:357", "benchmark": "slava", "task": "выбор ответа (один)", "index": 357, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 19019}
+{"id": "slava:1739", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 1739, "answer": "234", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 19019}
+{"id": "slava:1579", "benchmark": "slava", "task": "открытый ответ", "index": 1579, "answer": "Индонезия", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 19019}
+{"id": "slava:6073", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6073, "answer": "1356", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 19019}
+{"id": "slava:8997", "benchmark": "slava", "task": "установление соответствия", "index": 8997, "answer": "2314", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 19019}
+{"id": "slava:3833", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3833, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 19019}
+{"id": "slava:11133", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11133, "answer": "356", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 19019}
+{"id": "slava:3487", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3487, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 19019}
+{"id": "slava:11999", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11999, "answer": "356", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 19019}
+{"id": "slava:4817", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4817, "answer": "34", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 19019}
+{"id": "slava:2531", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2531, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 19019}
+{"id": "slava:6351", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6351, "answer": "123", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 19019}
+{"id": "slava:4351", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4351, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 19019}
+{"id": "slava:5405", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5405, "answer": "35", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 19019}
+{"id": "slava:8437", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8437, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21932}
+{"id": "slava:9787", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9787, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21932}
+{"id": "slava:977", "benchmark": "slava", "task": "выбор ответа (один)", "index": 977, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21932}
+{"id": "slava:2769", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2769, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21932}
+{"id": "slava:11341", "benchmark": "slava", "task": "установление соответствия", "index": 11341, "answer": "643", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21932}
+{"id": "slava:1723", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 1723, "answer": "24", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21932}
+{"id": "slava:8565", "benchmark": "slava", "task": "открытый ответ", "index": 8565, "answer": "Никон", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21932}
+{"id": "slava:7787", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7787, "answer": "156", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21932}
+{"id": "slava:4149", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4149, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21932}
+{"id": "slava:907", "benchmark": "slava", "task": "выбор ответа (один)", "index": 907, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21932}
+{"id": "slava:11541", "benchmark": "slava", "task": "установление соответствия", "index": 11541, "answer": "645", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21932}
+{"id": "slava:7699", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7699, "answer": "146", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21932}
+{"id": "slava:13695", "benchmark": "slava", "task": "открытый ответ", "index": 13695, "answer": "Всероссийский центральный исполнительный комитет (ВЦИК)", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21932}
+{"id": "slava:10533", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10533, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21932}
+{"id": "slava:1953", "benchmark": "slava", "task": "установление соответствия", "index": 1953, "answer": "683", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21932}
+{"id": "slava:8793", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8793, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21932}
+{"id": "slava:10739", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10739, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21932}
+{"id": "slava:4457", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4457, "answer": "34", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21932}
+{"id": "slava:12507", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 12507, "answer": "34", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21932}
+{"id": "slava:7801", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7801, "answer": "246", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21932}
+{"id": "slava:13329", "benchmark": "slava", "task": "указание последовательности", "index": 13329, "answer": "132", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21932}
+{"id": "slava:9573", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9573, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21932}
+{"id": "slava:1139", "benchmark": "slava", "task": "открытый ответ", "index": 1139, "answer": "Нигерия", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21932}
+{"id": "slava:8823", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8823, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21932}
+{"id": "slava:4649", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4649, "answer": "235", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21932}
+{"id": "slava:9159", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9159, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20948}
+{"id": "slava:8861", "benchmark": "slava", "task": "открытый ответ", "index": 8861, "answer": "Брежнев", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20948}
+{"id": "slava:8731", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8731, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20948}
+{"id": "slava:2771", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2771, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20948}
+{"id": "slava:11735", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11735, "answer": "124", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20948}
+{"id": "slava:1655", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 1655, "answer": "123", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20948}
+{"id": "slava:8651", "benchmark": "slava", "task": "открытый ответ", "index": 8651, "answer": "России", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20948}
+{"id": "slava:327", "benchmark": "slava", "task": "выбор ответа (один)", "index": 327, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20948}
+{"id": "slava:6945", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6945, "answer": "136", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20948}
+{"id": "slava:4739", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4739, "answer": "34", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20948}
+{"id": "slava:1253", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1253, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20948}
+{"id": "slava:6075", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6075, "answer": "56", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20948}
+{"id": "slava:1957", "benchmark": "slava", "task": "установление соответствия", "index": 1957, "answer": "452", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20948}
+{"id": "slava:7771", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7771, "answer": "134", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20948}
+{"id": "slava:7889", "benchmark": "slava", "task": "выбор ответа (один)", "index": 7889, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20948}
+{"id": "slava:2323", "benchmark": "slava", "task": "указание последовательности", "index": 2323, "answer": "123", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20948}
+{"id": "slava:10133", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10133, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20948}
+{"id": "slava:9241", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9241, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20948}
+{"id": "slava:4953", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4953, "answer": "136", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20948}
+{"id": "slava:7639", "benchmark": "slava", "task": "открытый ответ", "index": 7639, "answer": "Олег", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20948}
+{"id": "slava:3485", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3485, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20948}
+{"id": "slava:4991", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4991, "answer": "134", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20948}
+{"id": "slava:4097", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4097, "answer": "134", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20948}
+{"id": "slava:7053", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7053, "answer": "45", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20948}
+{"id": "slava:11101", "benchmark": "slava", "task": "выбор ответа (один)", "index": 11101, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20948}
+{"id": "slava:3059", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3059, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20780}
+{"id": "slava:1039", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1039, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20780}
+{"id": "slava:4509", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4509, "answer": "34", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20780}
+{"id": "slava:6291", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6291, "answer": "12", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20780}
+{"id": "slava:13037", "benchmark": "slava", "task": "выбор ответа (один)", "index": 13037, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20780}
+{"id": "slava:11039", "benchmark": "slava", "task": "выбор ответа (один)", "index": 11039, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20780}
+{"id": "slava:2201", "benchmark": "slava", "task": "установление соответствия", "index": 2201, "answer": "253", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20780}
+{"id": "slava:1351", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1351, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20780}
+{"id": "slava:12753", "benchmark": "slava", "task": "открытый ответ", "index": 12753, "answer": "Дионисий", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20780}
+{"id": "slava:7337", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7337, "answer": "2346", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20780}
+{"id": "slava:4099", "benchmark": "slava", "task": "открытый ответ", "index": 4099, "answer": "социальная динамика", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20780}
+{"id": "slava:8969", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 8969, "answer": "236", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20780}
+{"id": "slava:13721", "benchmark": "slava", "task": "указание последовательности", "index": 13721, "answer": "321", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20780}
+{"id": "slava:11347", "benchmark": "slava", "task": "установление соответствия", "index": 11347, "answer": "324", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20780}
+{"id": "slava:1493", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1493, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20780}
+{"id": "slava:6223", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6223, "answer": "13", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20780}
+{"id": "slava:1769", "benchmark": "slava", "task": "указание последовательности", "index": 1769, "answer": "123", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20780}
+{"id": "slava:1053", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1053, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20780}
+{"id": "slava:10149", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10149, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20780}
+{"id": "slava:2471", "benchmark": "slava", "task": "открытый ответ", "index": 2471, "answer": "Нижегородская область", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20780}
+{"id": "slava:10405", "benchmark": "slava", "task": "открытый ответ", "index": 10405, "answer": "Табель о рангах", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20780}
+{"id": "slava:11823", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11823, "answer": "126", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20780}
+{"id": "slava:4767", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4767, "answer": "124", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20780}
+{"id": "slava:7785", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7785, "answer": "145", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20780}
+{"id": "slava:7649", "benchmark": "slava", "task": "открытый ответ", "index": 7649, "answer": "1242 году", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20780}
+{"id": "slava:455", "benchmark": "slava", "task": "установление соответствия", "index": 455, "answer": "432", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23437}
+{"id": "slava:9265", "benchmark": "slava", "task": "установление соответствия", "index": 9265, "answer": "2531", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23437}
+{"id": "slava:1121", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1121, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23437}
+{"id": "slava:487", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 487, "answer": "246", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23437}
+{"id": "slava:8797", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 8797, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23437}
+{"id": "slava:8067", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8067, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23437}
+{"id": "slava:2069", "benchmark": "slava", "task": "открытый ответ", "index": 2069, "answer": "Япония", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23437}
+{"id": "slava:10297", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 10297, "answer": "124", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23437}
+{"id": "slava:5899", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5899, "answer": "124", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23437}
+{"id": "slava:2753", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2753, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23437}
+{"id": "slava:6499", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6499, "answer": "46", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23437}
+{"id": "slava:13079", "benchmark": "slava", "task": "установление соответствия", "index": 13079, "answer": "3125", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23437}
+{"id": "slava:11913", "benchmark": "slava", "task": "установление соответствия", "index": 11913, "answer": "5123", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23437}
+{"id": "slava:14011", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 14011, "answer": "456", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23437}
+{"id": "slava:6967", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6967, "answer": "135", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23437}
+{"id": "slava:8221", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8221, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23437}
+{"id": "slava:2609", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2609, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23437}
+{"id": "slava:2791", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2791, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23437}
+{"id": "slava:4365", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4365, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23437}
+{"id": "slava:7695", "benchmark": "slava", "task": "указание последовательности", "index": 7695, "answer": "321", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23437}
+{"id": "slava:12337", "benchmark": "slava", "task": "выбор ответа (один)", "index": 12337, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23437}
+{"id": "slava:10475", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10475, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23437}
+{"id": "slava:8115", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8115, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23437}
+{"id": "slava:8099", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8099, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23437}
+{"id": "slava:6515", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6515, "answer": "1356", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23437}
+{"id": "slava:3275", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3275, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 30889}
+{"id": "slava:13289", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 13289, "answer": "235", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 30889}
+{"id": "slava:5263", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5263, "answer": "125", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 30889}
+{"id": "slava:1061", "benchmark": "slava", "task": "установление соответствия", "index": 1061, "answer": "412", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 30889}
+{"id": "slava:4035", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4035, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 30889}
+{"id": "slava:14047", "benchmark": "slava", "task": "указание последовательности", "index": 14047, "answer": "132", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 30889}
+{"id": "slava:10113", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10113, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 30889}
+{"id": "slava:11373", "benchmark": "slava", "task": "открытый ответ", "index": 11373, "answer": "Ленин", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 30889}
+{"id": "slava:10071", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10071, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 30889}
+{"id": "slava:27", "benchmark": "slava", "task": "выбор ответа (один)", "index": 27, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 30889}
+{"id": "slava:11313", "benchmark": "slava", "task": "установление соответствия", "index": 11313, "answer": "3524", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 30889}
+{"id": "slava:9941", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 9941, "answer": "24", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 30889}
+{"id": "slava:7553", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7553, "answer": "345", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 30889}
+{"id": "slava:5035", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5035, "answer": "2345", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 30889}
+{"id": "slava:11389", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11389, "answer": "156", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 30889}
+{"id": "slava:13957", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 13957, "answer": "124", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 30889}
+{"id": "slava:12509", "benchmark": "slava", "task": "открытый ответ", "index": 12509, "answer": "погосты", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 30889}
+{"id": "slava:12021", "benchmark": "slava", "task": "открытый ответ", "index": 12021, "answer": "Хрущёв", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 30889}
+{"id": "slava:10491", "benchmark": "slava", "task": "открытый ответ", "index": 10491, "answer": "1. Либерализация цен вызвала резкий рост цен и обесценивание сбережений граждан.\n2. Снизились реальные доходы и уровень жизни большинства населения, выросла безработица.\n3. Спад производства и разрыв хозяйственных связей привели к дефициту средств, задержкам зарплат и закрытию предприятий.", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 30889}
+{"id": "slava:4801", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4801, "answer": "125", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 30889}
+{"id": "slava:1747", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 1747, "answer": "156", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 30889}
+{"id": "slava:3469", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3469, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 30889}
+{"id": "slava:6053", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6053, "answer": "134", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 30889}
+{"id": "slava:4947", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4947, "answer": "124", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 30889}
+{"id": "slava:101", "benchmark": "slava", "task": "выбор ответа (один)", "index": 101, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 30889}
+{"id": "slava:7157", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7157, "answer": "13", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21320}
+{"id": "slava:3755", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3755, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21320}
+{"id": "slava:14083", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 14083, "answer": "25", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21320}
+{"id": "slava:7711", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7711, "answer": "45", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21320}
+{"id": "slava:11301", "benchmark": "slava", "task": "установление соответствия", "index": 11301, "answer": "216", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21320}
+{"id": "slava:11795", "benchmark": "slava", "task": "указание последовательности", "index": 11795, "answer": "213", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21320}
+{"id": "slava:9051", "benchmark": "slava", "task": "установление соответствия", "index": 9051, "answer": "1324", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21320}
+{"id": "slava:6119", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6119, "answer": "345", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21320}
+{"id": "slava:3111", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3111, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21320}
+{"id": "slava:4347", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4347, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21320}
+{"id": "slava:3785", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3785, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21320}
+{"id": "slava:6201", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6201, "answer": "35", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21320}
+{"id": "slava:5981", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5981, "answer": "46", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21320}
+{"id": "slava:9255", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9255, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21320}
+{"id": "slava:9143", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9143, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21320}
+{"id": "slava:4355", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4355, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21320}
+{"id": "slava:8359", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8359, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21320}
+{"id": "slava:10121", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10121, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21320}
+{"id": "slava:9553", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 9553, "answer": "24", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21320}
+{"id": "slava:7303", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7303, "answer": "35", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21320}
+{"id": "slava:173", "benchmark": "slava", "task": "выбор ответа (один)", "index": 173, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21320}
+{"id": "slava:9595", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9595, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21320}
+{"id": "slava:8889", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 8889, "answer": "125", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21320}
+{"id": "slava:31", "benchmark": "slava", "task": "выбор ответа (один)", "index": 31, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21320}
+{"id": "slava:9669", "benchmark": "slava", "task": "указание последовательности", "index": 9669, "answer": "31524", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21320}
+{"id": "slava:11871", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11871, "answer": "246", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25027}
+{"id": "slava:399", "benchmark": "slava", "task": "выбор ответа (один)", "index": 399, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25027}
+{"id": "slava:11031", "benchmark": "slava", "task": "выбор ответа (один)", "index": 11031, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25027}
+{"id": "slava:99", "benchmark": "slava", "task": "выбор ответа (один)", "index": 99, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25027}
+{"id": "slava:11993", "benchmark": "slava", "task": "открытый ответ", "index": 11993, "answer": "Хрущёв", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25027}
+{"id": "slava:5437", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5437, "answer": "1345", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25027}
+{"id": "slava:7039", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7039, "answer": "125", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25027}
+{"id": "slava:5071", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5071, "answer": "126", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25027}
+{"id": "slava:7767", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7767, "answer": "134", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25027}
+{"id": "slava:6631", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6631, "answer": "145", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25027}
+{"id": "slava:14153", "benchmark": "slava", "task": "установление соответствия", "index": 14153, "answer": "1532", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25027}
+{"id": "slava:11927", "benchmark": "slava", "task": "указание последовательности", "index": 11927, "answer": "123", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25027}
+{"id": "slava:10427", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10427, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25027}
+{"id": "slava:9145", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9145, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25027}
+{"id": "slava:4959", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4959, "answer": "126", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25027}
+{"id": "slava:2459", "benchmark": "slava", "task": "установление соответствия", "index": 2459, "answer": "354", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25027}
+{"id": "slava:13991", "benchmark": "slava", "task": "указание последовательности", "index": 13991, "answer": "213", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25027}
+{"id": "slava:12605", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 12605, "answer": "134", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25027}
+{"id": "slava:8131", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8131, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25027}
+{"id": "slava:3991", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3991, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25027}
+{"id": "slava:4819", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4819, "answer": "456", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25027}
+{"id": "slava:11729", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11729, "answer": "156", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25027}
+{"id": "slava:12993", "benchmark": "slava", "task": "выбор ответа (один)", "index": 12993, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25027}
+{"id": "slava:7731", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7731, "answer": "16", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25027}
+{"id": "slava:13117", "benchmark": "slava", "task": "выбор ответа (один)", "index": 13117, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25027}
+{"id": "slava:7637", "benchmark": "slava", "task": "открытый ответ", "index": 7637, "answer": "На 15 феодальных центров.", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23778}
+{"id": "slava:2957", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2957, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23778}
+{"id": "slava:12885", "benchmark": "slava", "task": "указание последовательности", "index": 12885, "answer": "321", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23778}
+{"id": "slava:13367", "benchmark": "slava", "task": "выбор ответа (один)", "index": 13367, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23778}
+{"id": "slava:8729", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8729, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23778}
+{"id": "slava:13041", "benchmark": "slava", "task": "выбор ответа (один)", "index": 13041, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23778}
+{"id": "slava:2081", "benchmark": "slava", "task": "открытый ответ", "index": 2081, "answer": "Италия", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23778}
+{"id": "slava:4695", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4695, "answer": "134", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23778}
+{"id": "slava:795", "benchmark": "slava", "task": "выбор ответа (один)", "index": 795, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23778}
+{"id": "slava:3455", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3455, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23778}
+{"id": "slava:4403", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4403, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23778}
+{"id": "slava:3021", "benchmark": "slava", "task": "установление соответствия", "index": 3021, "answer": "384612", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23778}
+{"id": "slava:9297", "benchmark": "slava", "task": "открытый ответ", "index": 9297, "answer": "концессией", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23778}
+{"id": "slava:11487", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11487, "answer": "26", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23778}
+{"id": "slava:4119", "benchmark": "slava", "task": "открытый ответ", "index": 4119, "answer": "политическая культура", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23778}
+{"id": "slava:4447", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4447, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23778}
+{"id": "slava:13267", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 13267, "answer": "146", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23778}
+{"id": "slava:339", "benchmark": "slava", "task": "открытый ответ", "index": 339, "answer": "Астраханская область", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23778}
+{"id": "slava:13711", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 13711, "answer": "45", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23778}
+{"id": "slava:4077", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4077, "answer": "246", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23778}
+{"id": "slava:2009", "benchmark": "slava", "task": "установление соответствия", "index": 2009, "answer": "314", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23778}
+{"id": "slava:10515", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10515, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23778}
+{"id": "slava:7515", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7515, "answer": "125", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23778}
+{"id": "slava:6769", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6769, "answer": "456", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23778}
+{"id": "slava:3997", "benchmark": "slava", "task": "установление соответствия", "index": 3997, "answer": "971345", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23778}
+{"id": "slava:12613", "benchmark": "slava", "task": "указание последовательности", "index": 12613, "answer": "321", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25172}
+{"id": "slava:11481", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11481, "answer": "145", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25172}
+{"id": "slava:13087", "benchmark": "slava", "task": "указание последовательности", "index": 13087, "answer": "231", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25172}
+{"id": "slava:9391", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 9391, "answer": "125", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25172}
+{"id": "slava:3251", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3251, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25172}
+{"id": "slava:10373", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10373, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25172}
+{"id": "slava:11121", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11121, "answer": "145", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25172}
+{"id": "slava:9919", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9919, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25172}
+{"id": "slava:3035", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3035, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25172}
+{"id": "slava:6199", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6199, "answer": "2456", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25172}
+{"id": "slava:11549", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11549, "answer": "234", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25172}
+{"id": "slava:8369", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8369, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25172}
+{"id": "slava:10485", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10485, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25172}
+{"id": "slava:8061", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8061, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25172}
+{"id": "slava:12447", "benchmark": "slava", "task": "установление соответствия", "index": 12447, "answer": "514", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25172}
+{"id": "slava:10031", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10031, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25172}
+{"id": "slava:8313", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8313, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25172}
+{"id": "slava:181", "benchmark": "slava", "task": "указание последовательности", "index": 181, "answer": "231", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25172}
+{"id": "slava:3077", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3077, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25172}
+{"id": "slava:11883", "benchmark": "slava", "task": "выбор ответа (один)", "index": 11883, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25172}
+{"id": "slava:3011", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3011, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25172}
+{"id": "slava:6607", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6607, "answer": "146", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25172}
+{"id": "slava:10903", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10903, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25172}
+{"id": "slava:10389", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10389, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25172}
+{"id": "slava:1889", "benchmark": "slava", "task": "открытый ответ", "index": 1889, "answer": "Мексика", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25172}
+{"id": "slava:1923", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 1923, "answer": "135", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21774}
+{"id": "slava:5381", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5381, "answer": "156", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21774}
+{"id": "slava:7583", "benchmark": "slava", "task": "выбор ответа (один)", "index": 7583, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21774}
+{"id": "slava:8763", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8763, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21774}
+{"id": "slava:6321", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6321, "answer": "156", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21774}
+{"id": "slava:4043", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4043, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21774}
+{"id": "slava:11419", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 11419, "answer": "126", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21774}
+{"id": "slava:5327", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5327, "answer": "235", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21774}
+{"id": "slava:4463", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4463, "answer": "46", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21774}
+{"id": "slava:9301", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9301, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21774}
+{"id": "slava:3571", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3571, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21774}
+{"id": "slava:9303", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9303, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21774}
+{"id": "slava:13869", "benchmark": "slava", "task": "установление соответствия", "index": 13869, "answer": "2351", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21774}
+{"id": "slava:10115", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 10115, "answer": "235", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21774}
+{"id": "slava:12093", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 12093, "answer": "123", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21774}
+{"id": "slava:4705", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4705, "answer": "134", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21774}
+{"id": "slava:10137", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10137, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21774}
+{"id": "slava:9385", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9385, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21774}
+{"id": "slava:13921", "benchmark": "slava", "task": "установление соответствия", "index": 13921, "answer": "6315", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21774}
+{"id": "slava:5843", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5843, "answer": "234", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21774}
+{"id": "slava:5787", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5787, "answer": "23", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21774}
+{"id": "slava:3851", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3851, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21774}
+{"id": "slava:5375", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5375, "answer": "34", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21774}
+{"id": "slava:3063", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3063, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21774}
+{"id": "slava:12435", "benchmark": "slava", "task": "открытый ответ", "index": 12435, "answer": "1. Заключение Столбовского мира со Швецией и Деулинского перемирия с Речью Посполитой.\n2. Проведение переписи земель и населения, упорядочение налогообложения.\n3. Восстановление органов государственного управления и укрепление царской власти.", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21774}
+{"id": "slava:10569", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10569, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20609}
+{"id": "slava:8613", "benchmark": "slava", "task": "открытый ответ", "index": 8613, "answer": "Кондиции", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20609}
+{"id": "slava:3297", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3297, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20609}
+{"id": "slava:8963", "benchmark": "slava", "task": "указание последовательности", "index": 8963, "answer": "32451", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20609}
+{"id": "slava:9767", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 9767, "answer": "256", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20609}
+{"id": "slava:5205", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5205, "answer": "3456", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20609}
+{"id": "slava:1261", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1261, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20609}
+{"id": "slava:3315", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3315, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20609}
+{"id": "slava:1807", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 1807, "answer": "13", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20609}
+{"id": "slava:8743", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8743, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20609}
+{"id": "slava:14137", "benchmark": "slava", "task": "установление соответствия", "index": 14137, "answer": "6132", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20609}
+{"id": "slava:7907", "benchmark": "slava", "task": "выбор ответа (один)", "index": 7907, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20609}
+{"id": "slava:10483", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10483, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20609}
+{"id": "slava:10221", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10221, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20609}
+{"id": "slava:2655", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2655, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20609}
+{"id": "slava:12361", "benchmark": "slava", "task": "выбор ответа (один)", "index": 12361, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20609}
+{"id": "slava:9705", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 9705, "answer": "134", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20609}
+{"id": "slava:13221", "benchmark": "slava", "task": "указание последовательности", "index": 13221, "answer": "213", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20609}
+{"id": "slava:9955", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9955, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20609}
+{"id": "slava:13977", "benchmark": "slava", "task": "установление соответствия", "index": 13977, "answer": "3516", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20609}
+{"id": "slava:5001", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5001, "answer": "126", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20609}
+{"id": "slava:2483", "benchmark": "slava", "task": "указание последовательности", "index": 2483, "answer": "231", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20609}
+{"id": "slava:735", "benchmark": "slava", "task": "открытый ответ", "index": 735, "answer": "Выбросы метана усилят парниковый эффект и приведут к дальнейшему повышению температуры на планете.", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20609}
+{"id": "slava:10811", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10811, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20609}
+{"id": "slava:4807", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4807, "answer": "135", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 20609}
+{"id": "slava:8949", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8949, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21648}
+{"id": "slava:177", "benchmark": "slava", "task": "установление соответствия", "index": 177, "answer": "324", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21648}
+{"id": "slava:10393", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 10393, "answer": "35", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21648}
+{"id": "slava:927", "benchmark": "slava", "task": "выбор ответа (один)", "index": 927, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21648}
+{"id": "slava:3495", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3495, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21648}
+{"id": "slava:457", "benchmark": "slava", "task": "открытый ответ", "index": 457, "answer": "В Предуральском прогибе широко распространены растворимые водой осадочные породы — известняки, гипсы и соли, поэтому здесь интенсивнее развивается карст.", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21648}
+{"id": "slava:2319", "benchmark": "slava", "task": "указание последовательности", "index": 2319, "answer": "213", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21648}
+{"id": "slava:4019", "benchmark": "slava", "task": "открытый ответ", "index": 4019, "answer": "Объект налогообложения", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21648}
+{"id": "slava:7019", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7019, "answer": "34", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21648}
+{"id": "slava:63", "benchmark": "slava", "task": "выбор ответа (один)", "index": 63, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21648}
+{"id": "slava:8011", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8011, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21648}
+{"id": "slava:10735", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10735, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21648}
+{"id": "slava:4963", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4963, "answer": "1345", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21648}
+{"id": "slava:379", "benchmark": "slava", "task": "выбор ответа (один)", "index": 379, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21648}
+{"id": "slava:12457", "benchmark": "slava", "task": "установление соответствия", "index": 12457, "answer": "216", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21648}
+{"id": "slava:4755", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4755, "answer": "245", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21648}
+{"id": "slava:11193", "benchmark": "slava", "task": "установление соответствия", "index": 11193, "answer": "216", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21648}
+{"id": "slava:12667", "benchmark": "slava", "task": "открытый ответ", "index": 12667, "answer": "Горбачёв", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21648}
+{"id": "slava:6459", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6459, "answer": "1245", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21648}
+{"id": "slava:10691", "benchmark": "slava", "task": "открытый ответ", "index": 10691, "answer": "Отрезки", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21648}
+{"id": "slava:11195", "benchmark": "slava", "task": "установление соответствия", "index": 11195, "answer": "425", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21648}
+{"id": "slava:6601", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6601, "answer": "245", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21648}
+{"id": "slava:11265", "benchmark": "slava", "task": "установление соответствия", "index": 11265, "answer": "325", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21648}
+{"id": "slava:5711", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5711, "answer": "12", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21648}
+{"id": "slava:14159", "benchmark": "slava", "task": "указание последовательности", "index": 14159, "answer": "312", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 21648}
+{"id": "slava:13899", "benchmark": "slava", "task": "указание последовательности", "index": 13899, "answer": "231", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24976}
+{"id": "slava:11941", "benchmark": "slava", "task": "открытый ответ", "index": 11941, "answer": "Троцкий", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24976}
+{"id": "slava:5703", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5703, "answer": "12", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24976}
+{"id": "slava:1111", "benchmark": "slava", "task": "открытый ответ", "index": 1111, "answer": "1. Островное положение Японии и наличие крупных морских портов делают удобными поставки СПГ морским транспортом.\n2. Япония расположена сравнительно близко к крупным экспортёрам СПГ Восточной и Юго-Восточной Азии и Австралии.", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24976}
+{"id": "slava:12955", "benchmark": "slava", "task": "выбор ответа (один)", "index": 12955, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24976}
+{"id": "slava:9811", "benchmark": "slava", "task": "открытый ответ", "index": 9811, "answer": "1. Крепостное право тормозило развитие экономики и капиталистических отношений.\n2. Поражение в Крымской войне выявило военно-техническую отсталость России.\n3. Рост крестьянских волнений создавал угрозу социального взрыва и требовал отмены крепостного права сверху.", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24976}
+{"id": "slava:9373", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9373, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24976}
+{"id": "slava:5659", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5659, "answer": "134", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24976}
+{"id": "slava:3371", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3371, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24976}
+{"id": "slava:6741", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6741, "answer": "13", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24976}
+{"id": "slava:14135", "benchmark": "slava", "task": "установление соответствия", "index": 14135, "answer": "4153", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24976}
+{"id": "slava:8057", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8057, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24976}
+{"id": "slava:6187", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6187, "answer": "135", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24976}
+{"id": "slava:8621", "benchmark": "slava", "task": "открытый ответ", "index": 8621, "answer": "Эпоха дворцовых переворотов", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24976}
+{"id": "slava:8149", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8149, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24976}
+{"id": "slava:9425", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9425, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24976}
+{"id": "slava:3479", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3479, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24976}
+{"id": "slava:8035", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8035, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24976}
+{"id": "slava:11243", "benchmark": "slava", "task": "указание последовательности", "index": 11243, "answer": "213", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24976}
+{"id": "slava:14113", "benchmark": "slava", "task": "указание последовательности", "index": 14113, "answer": "132", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24976}
+{"id": "slava:11499", "benchmark": "slava", "task": "установление соответствия", "index": 11499, "answer": "3561", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24976}
+{"id": "slava:2375", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 2375, "answer": "23", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24976}
+{"id": "slava:8573", "benchmark": "slava", "task": "открытый ответ", "index": 8573, "answer": "Фёдор Алексеевич Головин", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24976}
+{"id": "slava:6403", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6403, "answer": "235", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24976}
+{"id": "slava:5687", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5687, "answer": "234", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24976}
+{"id": "slava:6215", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6215, "answer": "245", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 32245}
+{"id": "slava:4829", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4829, "answer": "234", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 32245}
+{"id": "slava:2119", "benchmark": "slava", "task": "открытый ответ", "index": 2119, "answer": "1. В декабре Солнце находится в зените вблизи Южного тропика, поэтому в Рио-де-Жанейро угол падения солнечных лучей больше.\n2. В декабре в Джакарте сезон дождей и высокая облачность, ослабляющая солнечную радиацию.", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 32245}
+{"id": "slava:7585", "benchmark": "slava", "task": "выбор ответа (один)", "index": 7585, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 32245}
+{"id": "slava:10305", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10305, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 32245}
+{"id": "slava:8449", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8449, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 32245}
+{"id": "slava:11765", "benchmark": "slava", "task": "открытый ответ", "index": 11765, "answer": "Польша", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 32245}
+{"id": "slava:10701", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10701, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 32245}
+{"id": "slava:8929", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8929, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 32245}
+{"id": "slava:1547", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1547, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 32245}
+{"id": "slava:747", "benchmark": "slava", "task": "выбор ответа (один)", "index": 747, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 32245}
+{"id": "slava:8983", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8983, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 32245}
+{"id": "slava:9245", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9245, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 32245}
+{"id": "slava:10895", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 10895, "answer": "26", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 32245}
+{"id": "slava:8531", "benchmark": "slava", "task": "открытый ответ", "index": 8531, "answer": "Система распределения государственных должностей с учётом знатности рода и служебного положения предков.", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 32245}
+{"id": "slava:8677", "benchmark": "slava", "task": "открытый ответ", "index": 8677, "answer": "Помещичье землевладение, крестьянскую общину и временнообязанное положение крестьян.", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 32245}
+{"id": "slava:3295", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3295, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 32245}
+{"id": "slava:4489", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4489, "answer": "14", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 32245}
+{"id": "slava:13579", "benchmark": "slava", "task": "открытый ответ", "index": 13579, "answer": "1. Княгиня Ольга жестоко подавила восстание древлян.\n2. Древлянская земля была окончательно подчинена Киеву.\n3. Ольга провела налоговую реформу, установив уроки и погосты.", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 32245}
+{"id": "slava:7655", "benchmark": "slava", "task": "выбор ответа (один)", "index": 7655, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 32245}
+{"id": "slava:3501", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3501, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 32245}
+{"id": "slava:10545", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10545, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 32245}
+{"id": "slava:2025", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 2025, "answer": "124", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 32245}
+{"id": "slava:7897", "benchmark": "slava", "task": "выбор ответа (один)", "index": 7897, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 32245}
+{"id": "slava:13625", "benchmark": "slava", "task": "установление соответствия", "index": 13625, "answer": "5612", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 32245}
+{"id": "slava:10663", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 10663, "answer": "245", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24076}
+{"id": "slava:1965", "benchmark": "slava", "task": "установление соответствия", "index": 1965, "answer": "542", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24076}
+{"id": "slava:12351", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 12351, "answer": "36", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24076}
+{"id": "slava:683", "benchmark": "slava", "task": "открытый ответ", "index": 683, "answer": "Норвегия", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24076}
+{"id": "slava:9317", "benchmark": "slava", "task": "установление соответствия", "index": 9317, "answer": "3542", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24076}
+{"id": "slava:13833", "benchmark": "slava", "task": "выбор ответа (один)", "index": 13833, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24076}
+{"id": "slava:8481", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8481, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24076}
+{"id": "slava:13831", "benchmark": "slava", "task": "выбор ответа (один)", "index": 13831, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24076}
+{"id": "slava:1593", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1593, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24076}
+{"id": "slava:12545", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 12545, "answer": "15", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24076}
+{"id": "slava:11119", "benchmark": "slava", "task": "установление соответствия", "index": 11119, "answer": "4365", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24076}
+{"id": "slava:993", "benchmark": "slava", "task": "указание последовательности", "index": 993, "answer": "132", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24076}
+{"id": "slava:13137", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 13137, "answer": "25", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24076}
+{"id": "slava:3299", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3299, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24076}
+{"id": "slava:9251", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9251, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24076}
+{"id": "slava:2337", "benchmark": "slava", "task": "открытый ответ", "index": 2337, "answer": "Таиланд", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24076}
+{"id": "slava:12465", "benchmark": "slava", "task": "установление соответствия", "index": 12465, "answer": "512", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24076}
+{"id": "slava:11199", "benchmark": "slava", "task": "открытый ответ", "index": 11199, "answer": "Милюков", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24076}
+{"id": "slava:9961", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9961, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24076}
+{"id": "slava:1247", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1247, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24076}
+{"id": "slava:4639", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4639, "answer": "24", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24076}
+{"id": "slava:10591", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10591, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24076}
+{"id": "slava:10127", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10127, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24076}
+{"id": "slava:12583", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 12583, "answer": "35", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24076}
+{"id": "slava:11535", "benchmark": "slava", "task": "открытый ответ", "index": 11535, "answer": "Ленин", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24076}
+{"id": "slava:12171", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 12171, "answer": "236", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25334}
+{"id": "slava:47", "benchmark": "slava", "task": "выбор ответа (один)", "index": 47, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25334}
+{"id": "slava:3877", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3877, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25334}
+{"id": "slava:11451", "benchmark": "slava", "task": "установление соответствия", "index": 11451, "answer": "5613", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25334}
+{"id": "slava:811", "benchmark": "slava", "task": "выбор ответа (один)", "index": 811, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25334}
+{"id": "slava:13373", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 13373, "answer": "156", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25334}
+{"id": "slava:2215", "benchmark": "slava", "task": "установление соответствия", "index": 2215, "answer": "136", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25334}
+{"id": "slava:7091", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7091, "answer": "1246", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25334}
+{"id": "slava:5363", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5363, "answer": "234", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25334}
+{"id": "slava:7965", "benchmark": "slava", "task": "выбор ответа (один)", "index": 7965, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25334}
+{"id": "slava:12961", "benchmark": "slava", "task": "выбор ответа (один)", "index": 12961, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25334}
+{"id": "slava:8833", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8833, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25334}
+{"id": "slava:12619", "benchmark": "slava", "task": "указание последовательности", "index": 12619, "answer": "321", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25334}
+{"id": "slava:3585", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3585, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25334}
+{"id": "slava:12233", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 12233, "answer": "134", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25334}
+{"id": "slava:385", "benchmark": "slava", "task": "указание последовательности", "index": 385, "answer": "3421", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25334}
+{"id": "slava:12099", "benchmark": "slava", "task": "открытый ответ", "index": 12099, "answer": "соседская община", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25334}
+{"id": "slava:4129", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4129, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25334}
+{"id": "slava:11659", "benchmark": "slava", "task": "установление соответствия", "index": 11659, "answer": "3152", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25334}
+{"id": "slava:13025", "benchmark": "slava", "task": "открытый ответ", "index": 13025, "answer": "временных", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25334}
+{"id": "slava:4387", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4387, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25334}
+{"id": "slava:1385", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1385, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25334}
+{"id": "slava:8719", "benchmark": "slava", "task": "указание последовательности", "index": 8719, "answer": "1234", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25334}
+{"id": "slava:5549", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5549, "answer": "346", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25334}
+{"id": "slava:4191", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4191, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 25334}
+{"id": "slava:6775", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6775, "answer": "135", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24571}
+{"id": "slava:749", "benchmark": "slava", "task": "выбор ответа (один)", "index": 749, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24571}
+{"id": "slava:3015", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3015, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24571}
+{"id": "slava:12333", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 12333, "answer": "46", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24571}
+{"id": "slava:7781", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 7781, "answer": "124", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24571}
+{"id": "slava:9253", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9253, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24571}
+{"id": "slava:9835", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9835, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24571}
+{"id": "slava:5257", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5257, "answer": "135", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24571}
+{"id": "slava:11141", "benchmark": "slava", "task": "открытый ответ", "index": 11141, "answer": "СЭВ", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24571}
+{"id": "slava:11511", "benchmark": "slava", "task": "открытый ответ", "index": 11511, "answer": "1. Соль (её добывали не повсеместно, поэтому приходилось покупать). 2. Железные орудия труда (для их изготовления требовались специальные кузнечные навыки).", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24571}
+{"id": "slava:8051", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8051, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24571}
+{"id": "slava:4401", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4401, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24571}
+{"id": "slava:8845", "benchmark": "slava", "task": "выбор ответа (один)", "index": 8845, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24571}
+{"id": "slava:4219", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4219, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24571}
+{"id": "slava:13311", "benchmark": "slava", "task": "указание последовательности", "index": 13311, "answer": "312", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24571}
+{"id": "slava:4303", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4303, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24571}
+{"id": "slava:11057", "benchmark": "slava", "task": "выбор ответа (один)", "index": 11057, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24571}
+{"id": "slava:8699", "benchmark": "slava", "task": "открытый ответ", "index": 8699, "answer": "М. М. Ковалевский", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24571}
+{"id": "slava:1087", "benchmark": "slava", "task": "открытый ответ", "index": 1087, "answer": "1. Наводнения. 2. Оползни.", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24571}
+{"id": "slava:9113", "benchmark": "slava", "task": "выбор ответа (один)", "index": 9113, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24571}
+{"id": "slava:2099", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 2099, "answer": "125", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24571}
+{"id": "slava:533", "benchmark": "slava", "task": "выбор ответа (один)", "index": 533, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24571}
+{"id": "slava:2611", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2611, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24571}
+{"id": "slava:11791", "benchmark": "slava", "task": "установление соответствия", "index": 11791, "answer": "5216", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24571}
+{"id": "slava:4395", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4395, "answer": "4", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 24571}
+{"id": "slava:1323", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1323, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23521}
+{"id": "slava:4265", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 4265, "answer": "236", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23521}
+{"id": "slava:2417", "benchmark": "slava", "task": "указание последовательности", "index": 2417, "answer": "231", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23521}
+{"id": "slava:3559", "benchmark": "slava", "task": "выбор ответа (один)", "index": 3559, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23521}
+{"id": "slava:473", "benchmark": "slava", "task": "выбор ответа (один)", "index": 473, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23521}
+{"id": "slava:5151", "benchmark": "slava", "task": "открытый ответ", "index": 5151, "answer": "социальная роль", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23521}
+{"id": "slava:7861", "benchmark": "slava", "task": "выбор ответа (один)", "index": 7861, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23521}
+{"id": "slava:14151", "benchmark": "slava", "task": "установление соответствия", "index": 14151, "answer": "2341", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23521}
+{"id": "slava:11257", "benchmark": "slava", "task": "установление соответствия", "index": 11257, "answer": "4631", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23521}
+{"id": "slava:3563", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 3563, "answer": "145", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23521}
+{"id": "slava:2183", "benchmark": "slava", "task": "открытый ответ", "index": 2183, "answer": "Австралия", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23521}
+{"id": "slava:1225", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1225, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23521}
+{"id": "slava:5937", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5937, "answer": "245", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23521}
+{"id": "slava:10521", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10521, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23521}
+{"id": "slava:10219", "benchmark": "slava", "task": "выбор ответа (один)", "index": 10219, "answer": "3", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23521}
+{"id": "slava:2993", "benchmark": "slava", "task": "выбор ответа (один)", "index": 2993, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23521}
+{"id": "slava:5331", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5331, "answer": "145", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23521}
+{"id": "slava:4193", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4193, "answer": "1", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23521}
+{"id": "slava:13915", "benchmark": "slava", "task": "указание последовательности", "index": 13915, "answer": "132", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23521}
+{"id": "slava:1213", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1213, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23521}
+{"id": "slava:5775", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 5775, "answer": "2456", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23521}
+{"id": "slava:6877", "benchmark": "slava", "task": "выбор ответа (мультивыбор)", "index": 6877, "answer": "124", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23521}
+{"id": "slava:1107", "benchmark": "slava", "task": "указание последовательности", "index": 1107, "answer": "2143", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23521}
+{"id": "slava:4127", "benchmark": "slava", "task": "выбор ответа (один)", "index": 4127, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23521}
+{"id": "slava:1373", "benchmark": "slava", "task": "выбор ответа (один)", "index": 1373, "answer": "2", "model": "gpt-5.6-sol", "backend": "codex", "batch_latency_ms": 23521}
