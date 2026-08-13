@@ -210,6 +210,14 @@ class FullBenchmarkRunnerTest(unittest.TestCase):
         self.assertEqual(result, '{"records":[]}')
         self.assertEqual(len(calls), 2)
 
+    def test_batch_prompt_requires_machine_readable_records(self) -> None:
+        runner = load_module()
+        task = runner.Task("slava:1", "slava", "open", 1, "Ответ")
+        prompt = runner.batch_prompt([task])
+        self.assertIn('"records"', prompt)
+        self.assertIn('"answer"', prompt)
+        self.assertIn("каждый запрошенный id", prompt) if "каждый запрошенный id" in prompt else self.assertIn("every requested id", prompt)
+
 
 if __name__ == "__main__":
     unittest.main()
