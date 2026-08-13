@@ -94,7 +94,7 @@ class FullBenchmarkRunnerTest(unittest.TestCase):
         payload = runner.omniroute_payload("minimax/MiniMax-M3", "prompt", 256)
 
         self.assertEqual(payload["thinking"], {"type": "disabled"})
-        self.assertTrue(payload["reasoning_split"])
+        self.assertNotIn("reasoning_split", payload)
         self.assertEqual(payload["max_completion_tokens"], 256)
         self.assertNotIn("response_format", payload)
 

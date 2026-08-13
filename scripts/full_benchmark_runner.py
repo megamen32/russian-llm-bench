@@ -263,7 +263,6 @@ def omniroute_payload(model: str, prompt: str, max_tokens: int) -> dict[str, Any
         "temperature": 0,
         "max_completion_tokens": max_tokens,
         "thinking": {"type": "disabled"},
-        "reasoning_split": True,
     }
 
 
