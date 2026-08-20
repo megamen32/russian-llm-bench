@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "model": "cx/gpt-5.6-terra",
+    "execution": "OmniRoute blind-v3",
+    "provider": "omniroute",
+    "endpoint": "DOCBENCH_OMNIROUTE_BASE_URL/chat/completions",
+    "auth_source": "/home/roomhacker/docbench/.env (field redacted)",
+    "batch_size": 5,
+    "max_tokens": 512,
+    "temperature": 0,
+    "batches": 4
+  },
+  "batches": [
+    {
+      "batch": 0,
+      "usage": {
+        "prompt_tokens": 1147,
+        "completion_tokens": 250,
+        "total_tokens": 1397,
+        "completion_tokens_details": {
+          "reasoning_tokens": 138
+        }
+      },
+      "raw": "{\"records\":[{\"id\":\"SLAVA:открытый ответ:5082:\",\"answer\":\"форма демократии\"},{\"id\":\"SLAVA:выбор ответа (мультивыбор):7195:\",\"answer\":\"126\"},{\"id\":\"SLAVA:выбор ответа (один):10280:\",\"answer\":\"4\"},{\"id\":\"SLAVA:установление соответствия:1935:\",\"answer\":\"142\"},{\"id\":\"SLAVA:указание последовательности:1453:\",\"answer\":\"231\"}]}"
+    },
+    {
+      "batch": 1,
+      "usage": {
+        "prompt_tokens": 1182,
+        "completion_tokens": 279,
+        "total_tokens": 1461,
+        "completion_tokens_details": {
+          "reasoning_tokens": 159
+        }
+      },
+      "raw": "{\"records\":[{\"id\":\"SLAVA:выбор ответа (один):10126:\",\"answer\":\"1\"},{\"id\":\"SLAVA:открытый ответ:9688:\",\"answer\":\"Серебряный век русской культуры\"},{\"id\":\"SLAVA:открытый ответ:311:\",\"answer\":\"Алжир\"},{\"id\":\"SLAVA:открытый ответ:2485:\",\"answer\":\"Ростовская область\"},{\"id\":\"SLAVA:выбор ответа (мультивыбор):5837:\",\"answer\":\"235\"}]}"
+    },
+    {
+      "batch": 2,
+      "usage": {
+        "prompt_tokens": 1020,
+        "completion_tokens": 3218,
+        "total_tokens": 4238,
+        "completion_tokens_details": {
+          "reasoning_tokens": 3106
+        }
+      },
+      "raw": "{\"records\":[{\"id\":\"MERA:bps:154:train\",\"answer\":\"1\"},{\"id\":\"MERA:chegeka:29263:train\",\"answer\":\"турникетов\"},{\"id\":\"MERA:lcs:313:train\",\"answer\":\"9\"},{\"id\":\"MERA:mathlogicqa:0:train\",\"answer\":\"A\"},{\"id\":\"MERA:multiq:424:test\",\"answer\":\"убийства эрцгерцога Фердинанда и его супруги Софии Хотек\"}]}"
+    },
+    {
+      "batch": 3,
+      "usage": {
+        "prompt_tokens": 1091,
+        "completion_tokens": 255,
+        "total_tokens": 1346,
+        "completion_tokens_details": {
+          "reasoning_tokens": 148
+        }
+      },
+      "raw": "{\"records\":[{\"id\":\"MERA:parus:0:dev\",\"answer\":\"2\"},{\"id\":\"MERA:rcb:0:dev\",\"answer\":\"3\"},{\"id\":\"MERA:rudetox:0:test\",\"answer\":\"Неправда! температуры горения хватит чтобы её расплавить полностью..\"},{\"id\":\"MERA:ruethics:851:test\",\"answer\":\"1\"},{\"id\":\"MERA:ruhatespeech:0:test\",\"answer\":\"2\"}]}"
+    }
+  ]
+}

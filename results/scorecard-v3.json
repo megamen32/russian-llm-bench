@@ -14,6 +14,13 @@
       "mera_scalar": {"exact": 4, "scored": 8}
     },
     {
+      "model": "gpt-5.6-terra",
+      "execution": "OmniRoute via DOCBENCH_OMNIROUTE_BASE_URL",
+      "route": "cx/gpt-5.6-terra",
+      "slava": {"exact": 8, "scored": 10},
+      "mera_scalar": {"exact": 6, "scored": 8}
+    },
+    {
       "model": "gpt-5.4-mini",
       "execution": "Codex subagent",
       "slava": {"exact": 6, "scored": 10},
@@ -66,6 +73,18 @@
       "route": "omniroute/zc/glm-5-turbo",
       "status": "provider unavailable",
       "reason": "Z.ai Coding Plan provider reported the selected model unavailable; attempts ended HTTP 502 with zero usage"
+    },
+    {
+      "model": "glm-4.7-flash",
+      "route": "z.ai / DOCBENCH_ZAI_BASE_URL",
+      "status": "temporarily unavailable",
+      "reason": "Canary and benchmark attempts returned HTTP 429 code 1305: service temporarily overloaded"
+    },
+    {
+      "model": "oc/deepseek-v4-flash-free",
+      "route": "OmniRoute",
+      "status": "quota unavailable",
+      "reason": "DOCBENCH and local OmniRoute keys both returned HTTP 403 insufficient_quota"
     }
   ]
 }
