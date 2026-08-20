@@ -14,9 +14,11 @@ diagnostic slice, not a representative evaluation.
 
 ## Result at a glance
 
-On the current checked-in slice, `gpt-5.6-sol` leads SLAVA at **9/10**; the
-best scalar MERA result is `gpt-5.4-mini` at **5/8**. Read the [limitations and
-reproduction path](#reproduce-the-slice) before interpreting either number.
+On the current checked-in slice, `gpt-5.6-terra` leads the scalar comparison at
+**14/18**. This is a diagnostic ranking only: 20 records are run, but the two
+structured MERA records are excluded from the exact-match total. Read the
+[limitations and reproduction path](#reproduce-the-slice) before interpreting
+the numbers.
 
 The slice covers two Russian benchmarks:
 
@@ -30,31 +32,58 @@ cheap comparison that can be rerun without leaking answer keys into prompts.
 
 All models received the same fully rendered 20-item input: 10 SLAVA tasks and
 10 MERA tasks. The answer key is stored separately and is never passed to a
-model. Scores below are strict normalized exact matches.
+model. Scores below are strict normalized exact matches, sorted from the
+lowest result to the highest.
 
-| Model | SLAVA | MERA scalar tasks |
-| --- | ---: | ---: |
-| GPT-5.6 Luna | 6/10 | 4/8 |
-| GPT-5.4 mini | 6/10 | **5/8** |
-| MiniMax M3 | 7/10 | 4/8 |
-| GPT-5.6 Sol | **9/10** | 4/8 |
+| Model | SLAVA | MERA scalar | Total |
+| --- | ---: | ---: | ---: |
+| YandexGPT Pro | 7/10 | 3/8 | 10/18 |
+| GPT-5.6 Luna | 6/10 | 4/8 | 10/18 |
+| GPT-5.4 mini | 6/10 | **5/8** | 11/18 |
+| MiniMax M3 | 7/10 | 4/8 | 11/18 |
+| GigaChat 3 Ultra | 8/10 | 4/8 | 12/18 |
+| GPT-5.6 Sol | **9/10** | 4/8 | 13/18 |
+| GPT-5.6 Terra | 8/10 | **6/8** | **14/18** |
 
 Two MERA records (`multiq`, `ruethics`) are intentionally not shown in the
 MERA scalar column. They need their task-specific official metrics rather than
 string equality.
 
+### What changed between adjacent rows
+
+The items below are the questions the next model answered correctly while the
+previous row did not. `Gold` is the reference answer; the two values in
+parentheses are `previous → next`.
+
+- **GPT-5.6 Luna vs YandexGPT Pro:** `SLAVA 7195` (ecology multi-select,
+  `1236 → 126`, gold `126`) and `MERA ruhatespeech` (hate-speech label,
+  invalid JSON → `2`, gold `2`).
+- **GPT-5.4 mini vs GPT-5.6 Luna:** `SLAVA 5082` (open answer,
+  `прямая демократия → форма демократии`, gold `форма демократии`) and
+  `MERA lcs` (longest common subsequence, `58 → 9`, gold `9`).
+- **MiniMax M3 vs GPT-5.4 mini:** `SLAVA 1935` (matching geography terms,
+  `143 → 142`, gold `142`).
+- **GigaChat 3 Ultra vs MiniMax M3:** `SLAVA 5837` (Labour Code dismissal
+  reasons, `1235 → 235`, gold `235`) and `SLAVA 7195` (`1236 → 126`, gold
+  `126`).
+- **GPT-5.6 Sol vs GigaChat 3 Ultra:** `MERA lcs` (`4 → 9`, gold `9`) and
+  `SLAVA 1935` (`342 → 142`, gold `142`).
+- **GPT-5.6 Terra vs GPT-5.6 Sol:** `MERA mathlogicqa` (equation,
+  `C → A`, gold `A`) and `MERA rcb` (textual entailment label, `1 → 3`, gold
+  `3`).
+
 ### The slightly cursed MERA observation
 
-On eight heterogeneous, mostly scalar MERA examples, the smaller GPT-5.4 mini
-beats the larger models by one exact match. This is funny, but it is **not**
-evidence that making a model worse makes it better at MERA. With `n = 8`, one
-answer moves the percentage by 12.5 points; MERA also mixes different task
-types and scoring rules. The responsible conclusion is: this slice is too
-small to rank models on MERA.
+On eight heterogeneous, mostly scalar MERA examples, GPT-5.6 Terra leads at
+6/8, while GPT-5.4 mini reaches 5/8. The one-point differences remain noisy:
+with `n = 8`, one answer moves the percentage by 12.5 points; MERA also mixes
+different task types and scoring rules. The responsible conclusion is: this
+slice is useful for debugging and comparison, but too small for a serious MERA
+ranking.
 
-SLAVA does separate the models on this slice: Sol scored 9/10, versus 7/10 for
-M3 and 6/10 for Luna and 5.4 mini. It is still a diagnostic signal, not a
-published benchmark claim.
+SLAVA separates the models more clearly: Sol scored 9/10, GigaChat and Terra
+8/10, M3 and YandexGPT 7/10, and Luna and 5.4 mini 6/10. It is still a
+diagnostic signal, not a published benchmark claim.
 
 ## What a task-specific scorer is
 
@@ -120,6 +149,11 @@ benchmark result.
 `glm-5-turbo` is registered on the same `zc` catalog, but its provider session
 responded that the chosen model is unavailable; the attempts ended in 502 with
 zero billed tokens. It likewise has no score rather than a substituted result.
+
+`glm-4.7-flash` was attempted through the Z.ai route and returned HTTP 429
+(temporary overload). `oc/deepseek-v4-flash-free` was attempted through
+OmniRoute and returned HTTP 403 `insufficient_quota` with both available local
+keys. Neither is included in the ranking until a complete response exists.
 
 ## Repository contents
 
