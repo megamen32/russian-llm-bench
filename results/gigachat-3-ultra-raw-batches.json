@@ -1,0 +1,195 @@
+{
+  "metadata": {
+    "model": "gigachat/GigaChat-3-Ultra",
+    "execution": "OmniRoute blind-v3",
+    "provider": "gigachat",
+    "endpoint": "http://127.0.0.1:20128/v1/chat/completions",
+    "batch_size": 1,
+    "max_tokens": 256,
+    "temperature": 0,
+    "response_format": "prompt-only-json",
+    "batches": 20
+  },
+  "batches": [
+    {
+      "index": 0,
+      "usage": {
+        "prompt_tokens": 147,
+        "completion_tokens": 25,
+        "total_tokens": 172
+      },
+      "raw": "{\"id\": \"SLAVA:открытый ответ:5082:\", \"answer\": \"форма демократии\"}"
+    },
+    {
+      "index": 1,
+      "usage": {
+        "prompt_tokens": 200,
+        "completion_tokens": 29,
+        "total_tokens": 229
+      },
+      "raw": "{\"id\": \"SLAVA:выбор ответа (мультивыбор):7195:\", \"answer\": \"126\"}"
+    },
+    {
+      "index": 2,
+      "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 25,
+        "total_tokens": 192
+      },
+      "raw": "{\"id\": \"SLAVA:выбор ответа (один):10280:\", \"answer\": \"4\"}"
+    },
+    {
+      "index": 3,
+      "usage": {
+        "prompt_tokens": 326,
+        "completion_tokens": 25,
+        "total_tokens": 351
+      },
+      "raw": "{\"id\": \"SLAVA:установление соответствия:1935:\", \"answer\": \"342\"}"
+    },
+    {
+      "index": 4,
+      "usage": {
+        "prompt_tokens": 145,
+        "completion_tokens": 25,
+        "total_tokens": 170
+      },
+      "raw": "{\"id\": \"SLAVA:указание последовательности:1453:\", \"answer\": \"231\"}"
+    },
+    {
+      "index": 5,
+      "usage": {
+        "prompt_tokens": 167,
+        "completion_tokens": 25,
+        "total_tokens": 192
+      },
+      "raw": "{\"id\": \"SLAVA:выбор ответа (один):10126:\", \"answer\": \"1\"}"
+    },
+    {
+      "index": 6,
+      "usage": {
+        "prompt_tokens": 242,
+        "completion_tokens": 27,
+        "total_tokens": 269
+      },
+      "raw": "{\"id\": \"SLAVA:открытый ответ:9688:\", \"answer\": \"Серебряный век\"}"
+    },
+    {
+      "index": 7,
+      "usage": {
+        "prompt_tokens": 182,
+        "completion_tokens": 24,
+        "total_tokens": 206
+      },
+      "raw": "{\"id\": \"SLAVA:открытый ответ:311:\", \"answer\": \"Алжир\"}"
+    },
+    {
+      "index": 8,
+      "usage": {
+        "prompt_tokens": 172,
+        "completion_tokens": 26,
+        "total_tokens": 198
+      },
+      "raw": "{\"id\": \"SLAVA:открытый ответ:2485:\", \"answer\": \"Ростовская область\"}"
+    },
+    {
+      "index": 9,
+      "usage": {
+        "prompt_tokens": 242,
+        "completion_tokens": 29,
+        "total_tokens": 271
+      },
+      "raw": "{\"id\": \"SLAVA:выбор ответа (мультивыбор):5837:\", \"answer\": \"235\"}"
+    },
+    {
+      "index": 10,
+      "usage": {
+        "prompt_tokens": 108,
+        "completion_tokens": 22,
+        "total_tokens": 130
+      },
+      "raw": "{\"id\": \"MERA:bps:154:train\", \"answer\": \"1\"}"
+    },
+    {
+      "index": 11,
+      "usage": {
+        "prompt_tokens": 125,
+        "completion_tokens": 27,
+        "total_tokens": 152
+      },
+      "raw": "{\"id\": \"MERA:chegeka:29263:train\", \"answer\": \"Замки\"}"
+    },
+    {
+      "index": 12,
+      "usage": {
+        "prompt_tokens": 119,
+        "completion_tokens": 22,
+        "total_tokens": 141
+      },
+      "raw": "{\"id\": \"MERA:lcs:313:train\", \"answer\": \"4\"}"
+    },
+    {
+      "index": 13,
+      "usage": {
+        "prompt_tokens": 115,
+        "completion_tokens": 22,
+        "total_tokens": 137
+      },
+      "raw": "{\"id\": \"MERA:mathlogicqa:0:train\", \"answer\": \"A\"}"
+    },
+    {
+      "index": 14,
+      "usage": {
+        "prompt_tokens": 516,
+        "completion_tokens": 86,
+        "total_tokens": 602
+      },
+      "raw": "{\"id\": \"MERA:multiq:424:test\", \"answer\": \"Формальным поводом к войне послужили события в Сараеве, где 28 июня 1914 года боснийский серб Гаврило Принцип убил наследника австро-венгерского престола эрцгерцога Фердинанда и его морганатическую супругу Софию Хотек.\"}"
+    },
+    {
+      "index": 15,
+      "usage": {
+        "prompt_tokens": 131,
+        "completion_tokens": 21,
+        "total_tokens": 152
+      },
+      "raw": "{\"id\": \"MERA:parus:0:dev\", \"answer\": \"2\"}"
+    },
+    {
+      "index": 16,
+      "usage": {
+        "prompt_tokens": 157,
+        "completion_tokens": 21,
+        "total_tokens": 178
+      },
+      "raw": "{\"id\": \"MERA:rcb:0:dev\", \"answer\": \"1\"}"
+    },
+    {
+      "index": 17,
+      "usage": {
+        "prompt_tokens": 111,
+        "completion_tokens": 36,
+        "total_tokens": 147
+      },
+      "raw": "{\"id\": \"MERA:rudetox:0:test\", \"answer\": \"Это неправда! Температуры горения хватит, чтобы её расплавить.\"}"
+    },
+    {
+      "index": 18,
+      "usage": {
+        "prompt_tokens": 268,
+        "completion_tokens": 24,
+        "total_tokens": 292
+      },
+      "raw": "{\"id\": \"MERA:ruethics:851:test\", \"answer\": \"1\"}"
+    },
+    {
+      "index": 19,
+      "usage": {
+        "prompt_tokens": 323,
+        "completion_tokens": 22,
+        "total_tokens": 345
+      },
+      "raw": "{\"id\": \"MERA:ruhatespeech:0:test\", \"answer\": \"2\"}"
+    }
+  ]
+}

@@ -31,6 +31,23 @@
       "execution": "Codex subagent",
       "slava": {"exact": 9, "scored": 10},
       "mera_scalar": {"exact": 4, "scored": 8}
+    },
+    {
+      "model": "yandexgpt-5-pro",
+      "execution": "OmniRoute yandex-ai-studio",
+      "route": "yandex-ai-studio/gpt://b1gdlat2773471081o37/yandexgpt-5-pro/latest",
+      "slava": {"exact": 7, "scored": 10},
+      "mera_scalar": {"exact": 3, "scored": 8},
+      "invalid_protocol_answers": 2,
+      "note": "Two MERA tasks returned non-JSON/refusal responses under the required JSON protocol; counted as invalid rather than repaired."
+    },
+    {
+      "model": "GigaChat-3-Ultra",
+      "execution": "OmniRoute gigachat",
+      "route": "gigachat/GigaChat-3-Ultra",
+      "slava": {"exact": 8, "scored": 10},
+      "mera_scalar": {"exact": 4, "scored": 8},
+      "note": "Final run used one-task batches because the provider produced malformed JSON in a multi-task batch."
     }
   ],
   "excluded_structured_mera_tasks": [
